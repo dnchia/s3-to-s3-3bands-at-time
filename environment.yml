@@ -1,0 +1,62 @@
+name: s3-to-s2-3bands-at-time
+channels:
+- defaults
+dependencies:
+- blas=1.0=mkl
+- ca-certificates=2018.03.07=0
+- certifi=2018.1.18=py35_0
+- cycler=0.10.0=py35hcc71164_0
+- freetype=2.8=h51f8f2c_1
+- icc_rt=2017.0.4=h97af966_0
+- icu=58.2=ha66f8fd_1
+- imageio=2.3.0=py35_0
+- intel-openmp=2018.0.0=8
+- jpeg=9b=hb83a4c4_2
+- kiwisolver=1.0.1=py35hc605aed_0
+- libpng=1.6.34=h79bbb47_0
+- libtiff=4.0.9=hb8ad9f9_1
+- matplotlib=2.2.2=py35h153e9ff_1
+- mkl=2018.0.2=1
+- mkl_fft=1.0.1=py35h452e1ab_0
+- mkl_random=1.0.1=py35h9258bd6_0
+- numpy=1.14.3=py35h9fa60d3_1
+- numpy-base=1.14.3=py35h555522e_1
+- olefile=0.45.1=py35_0
+- openssl=1.0.2o=h8ea7d77_0
+- pillow=5.1.0=py35h0738816_0
+- pip=9.0.3=py35_0
+- pyparsing=2.2.0=py35hcabcaab_1
+- pyqt=5.9.2=py35h1aa27d4_0
+- python=3.5.5=h0c2934d_2
+- python-dateutil=2.7.3=py35_0
+- pytz=2018.4=py35_0
+- qt=5.9.5=vc14he4a7d60_0
+- setuptools=39.0.1=py35_0
+- sip=4.19.8=py35h6538335_0
+- six=1.11.0=py35hc1da2df_1
+- sqlite=3.23.1=h35aae40_0
+- tk=8.6.7=hcb92d03_3
+- tornado=5.0.2=py35_0
+- tqdm=4.23.3=py35_0
+- vc=14=h0510ff6_3
+- vs2015_runtime=14.0.25123=3
+- wheel=0.31.0=py35_0
+- wincertstore=0.2=py35hfebbdb8_0
+- zlib=1.2.11=h8395fce_2
+- pip:
+  - absl-py==0.1.13
+  - astor==0.6.2
+  - bleach==1.5.0
+  - gast==0.2.0
+  - grpcio==1.11.0
+  - html5lib==0.9999999
+  - markdown==2.6.11
+  - mkl-fft==1.0.0
+  - mkl-random==1.0.1
+  - pandas==0.22.0
+  - protobuf==3.5.2.post1
+  - tensorboard==1.7.0
+  - tensorflow-gpu==1.7.0
+  - termcolor==1.1.0
+  - werkzeug==0.14.1
+

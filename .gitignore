@@ -1,0 +1,12 @@
+# IDE files
+.idea
+.vscode
+
+# Logs dir
+logs
+
+# Output images dir
+output
+
+# Pycache files
+__pycache__

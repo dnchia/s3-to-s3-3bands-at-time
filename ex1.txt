@@ -1,0 +1,2003 @@
+Is training
+
+Epoch #: 10 -> Training Loss: 84.68417, Evaluation Loss: 430.91632
+
+Epoch #: 20 -> Training Loss: 80.556816, Evaluation Loss: 431.06528
+
+Epoch #: 30 -> Training Loss: 92.254105, Evaluation Loss: 460.19144
+
+Epoch #: 40 -> Training Loss: 91.066895, Evaluation Loss: 447.79636
+
+Epoch #: 50 -> Training Loss: 90.15443, Evaluation Loss: 447.24463
+
+Epoch #: 60 -> Training Loss: 91.23665, Evaluation Loss: 453.94016
+
+Epoch #: 70 -> Training Loss: 88.067, Evaluation Loss: 447.11008
+
+Epoch #: 80 -> Training Loss: 88.9128, Evaluation Loss: 449.4985
+
+Epoch #: 90 -> Training Loss: 74.419426, Evaluation Loss: 411.4445
+
+Epoch #: 100 -> Training Loss: 82.03481, Evaluation Loss: 430.25784
+
+Epoch #: 110 -> Training Loss: 90.13199, Evaluation Loss: 449.43536
+
+Epoch #: 120 -> Training Loss: 87.61575, Evaluation Loss: 444.95166
+
+Epoch #: 130 -> Training Loss: 69.78223, Evaluation Loss: 400.5676
+
+Epoch #: 140 -> Training Loss: 97.480415, Evaluation Loss: 467.20078
+
+Epoch #: 150 -> Training Loss: 84.897255, Evaluation Loss: 432.71515
+
+Epoch #: 160 -> Training Loss: 89.62606, Evaluation Loss: 450.0283
+
+Epoch #: 170 -> Training Loss: 91.08856, Evaluation Loss: 449.14987
+
+Epoch #: 180 -> Training Loss: 81.79005, Evaluation Loss: 429.81656
+
+Epoch #: 190 -> Training Loss: 88.08373, Evaluation Loss: 444.03265
+
+Epoch #: 200 -> Training Loss: 86.60729, Evaluation Loss: 438.10608
+
+Epoch #: 210 -> Training Loss: 80.49386, Evaluation Loss: 427.40012
+
+Epoch #: 220 -> Training Loss: 85.22143, Evaluation Loss: 441.41113
+
+Epoch #: 230 -> Training Loss: 79.98907, Evaluation Loss: 429.1388
+
+Epoch #: 240 -> Training Loss: 94.30738, Evaluation Loss: 459.869
+
+Epoch #: 250 -> Training Loss: 76.487656, Evaluation Loss: 422.8715
+
+Epoch #: 260 -> Training Loss: 79.33942, Evaluation Loss: 419.41995
+
+Epoch #: 270 -> Training Loss: 80.36863, Evaluation Loss: 425.66824
+
+Epoch #: 280 -> Training Loss: 81.08279, Evaluation Loss: 432.1883
+
+Epoch #: 290 -> Training Loss: 86.786446, Evaluation Loss: 445.08633
+
+Epoch #: 300 -> Training Loss: 83.10056, Evaluation Loss: 432.00638
+
+Epoch #: 310 -> Training Loss: 91.647354, Evaluation Loss: 451.55914
+
+Epoch #: 320 -> Training Loss: 89.36901, Evaluation Loss: 450.049
+
+Epoch #: 330 -> Training Loss: 82.675735, Evaluation Loss: 434.99158
+
+Epoch #: 340 -> Training Loss: 86.74216, Evaluation Loss: 444.3009
+
+Epoch #: 350 -> Training Loss: 78.9216, Evaluation Loss: 419.9038
+
+Epoch #: 360 -> Training Loss: 72.72095, Evaluation Loss: 410.42908
+
+Epoch #: 370 -> Training Loss: 92.338066, Evaluation Loss: 452.18298
+
+Epoch #: 380 -> Training Loss: 80.05723, Evaluation Loss: 425.24893
+
+Epoch #: 390 -> Training Loss: 81.628296, Evaluation Loss: 432.87146
+
+Epoch #: 400 -> Training Loss: 81.79878, Evaluation Loss: 435.46542
+
+Epoch #: 410 -> Training Loss: 86.57299, Evaluation Loss: 441.82947
+
+Epoch #: 420 -> Training Loss: 80.897026, Evaluation Loss: 428.613
+
+Epoch #: 430 -> Training Loss: 74.98814, Evaluation Loss: 417.24246
+
+Epoch #: 440 -> Training Loss: 76.05914, Evaluation Loss: 415.1339
+
+Epoch #: 450 -> Training Loss: 101.606186, Evaluation Loss: 475.09732
+
+Epoch #: 460 -> Training Loss: 87.14458, Evaluation Loss: 444.93793
+
+Epoch #: 470 -> Training Loss: 92.26402, Evaluation Loss: 456.91367
+
+Epoch #: 480 -> Training Loss: 83.612526, Evaluation Loss: 430.90158
+
+Epoch #: 490 -> Training Loss: 86.0864, Evaluation Loss: 440.0886
+
+Epoch #: 500 -> Training Loss: 88.03028, Evaluation Loss: 442.84253
+
+Epoch #: 510 -> Training Loss: 85.32053, Evaluation Loss: 433.7305
+
+Epoch #: 520 -> Training Loss: 90.47794, Evaluation Loss: 455.0535
+
+Epoch #: 530 -> Training Loss: 79.74413, Evaluation Loss: 426.38443
+
+Epoch #: 540 -> Training Loss: 87.13907, Evaluation Loss: 443.62497
+
+Epoch #: 550 -> Training Loss: 82.97177, Evaluation Loss: 432.07343
+
+Epoch #: 560 -> Training Loss: 75.61509, Evaluation Loss: 420.884
+
+Epoch #: 570 -> Training Loss: 92.18926, Evaluation Loss: 449.4881
+
+Epoch #: 580 -> Training Loss: 83.88037, Evaluation Loss: 435.29758
+
+Epoch #: 590 -> Training Loss: 75.39091, Evaluation Loss: 411.45395
+
+Epoch #: 600 -> Training Loss: 93.534836, Evaluation Loss: 456.1473
+
+Epoch #: 610 -> Training Loss: 95.30473, Evaluation Loss: 464.6017
+
+Epoch #: 620 -> Training Loss: 86.54463, Evaluation Loss: 442.52878
+
+Epoch #: 630 -> Training Loss: 86.12675, Evaluation Loss: 440.30045
+
+Epoch #: 640 -> Training Loss: 75.730484, Evaluation Loss: 415.43518
+
+Epoch #: 650 -> Training Loss: 89.86872, Evaluation Loss: 452.90384
+
+Epoch #: 660 -> Training Loss: 91.50498, Evaluation Loss: 455.75424
+
+Epoch #: 670 -> Training Loss: 78.45927, Evaluation Loss: 426.73456
+
+Epoch #: 680 -> Training Loss: 92.19437, Evaluation Loss: 461.07718
+
+Epoch #: 690 -> Training Loss: 101.0607, Evaluation Loss: 473.0502
+
+Epoch #: 700 -> Training Loss: 81.09117, Evaluation Loss: 429.2892
+
+Epoch #: 710 -> Training Loss: 76.068214, Evaluation Loss: 417.32053
+
+Epoch #: 720 -> Training Loss: 86.779976, Evaluation Loss: 445.1538
+
+Epoch #: 730 -> Training Loss: 89.64992, Evaluation Loss: 457.33917
+
+Epoch #: 740 -> Training Loss: 78.90644, Evaluation Loss: 425.9694
+
+Epoch #: 750 -> Training Loss: 85.63988, Evaluation Loss: 439.38422
+
+Epoch #: 760 -> Training Loss: 80.211784, Evaluation Loss: 428.63934
+
+Epoch #: 770 -> Training Loss: 82.05248, Evaluation Loss: 430.64716
+
+Epoch #: 780 -> Training Loss: 92.79848, Evaluation Loss: 458.34732
+
+Epoch #: 790 -> Training Loss: 85.3843, Evaluation Loss: 430.8927
+
+Epoch #: 800 -> Training Loss: 80.938515, Evaluation Loss: 425.2013
+
+Epoch #: 810 -> Training Loss: 86.45627, Evaluation Loss: 445.4208
+
+Epoch #: 820 -> Training Loss: 88.08373, Evaluation Loss: 445.84204
+
+Epoch #: 830 -> Training Loss: 87.06347, Evaluation Loss: 445.92007
+
+Epoch #: 840 -> Training Loss: 89.90557, Evaluation Loss: 450.9306
+
+Epoch #: 850 -> Training Loss: 89.61427, Evaluation Loss: 451.30988
+
+Epoch #: 860 -> Training Loss: 79.458664, Evaluation Loss: 422.62228
+
+Epoch #: 870 -> Training Loss: 79.967186, Evaluation Loss: 427.71848
+
+Epoch #: 880 -> Training Loss: 82.283936, Evaluation Loss: 425.58206
+
+Epoch #: 890 -> Training Loss: 92.9705, Evaluation Loss: 459.5437
+
+Epoch #: 900 -> Training Loss: 80.00516, Evaluation Loss: 425.34055
+
+Epoch #: 910 -> Training Loss: 103.2581, Evaluation Loss: 480.36322
+
+Epoch #: 920 -> Training Loss: 83.02399, Evaluation Loss: 433.61453
+
+Epoch #: 930 -> Training Loss: 80.150444, Evaluation Loss: 425.22766
+
+Epoch #: 940 -> Training Loss: 85.04508, Evaluation Loss: 439.3813
+
+Epoch #: 950 -> Training Loss: 86.353035, Evaluation Loss: 439.2548
+
+Epoch #: 960 -> Training Loss: 82.23437, Evaluation Loss: 427.14804
+
+Epoch #: 970 -> Training Loss: 77.83697, Evaluation Loss: 420.79092
+
+Epoch #: 980 -> Training Loss: 87.79838, Evaluation Loss: 450.63455
+
+Epoch #: 990 -> Training Loss: 74.36593, Evaluation Loss: 416.36133
+
+Epoch #: 1000 -> Training Loss: 91.603966, Evaluation Loss: 454.03415
+
+Epoch #: 1010 -> Training Loss: 87.61852, Evaluation Loss: 449.5348
+
+Epoch #: 1020 -> Training Loss: 84.435234, Evaluation Loss: 439.6098
+
+Epoch #: 1030 -> Training Loss: 83.65307, Evaluation Loss: 427.9383
+
+Epoch #: 1040 -> Training Loss: 73.567474, Evaluation Loss: 410.91934
+
+Epoch #: 1050 -> Training Loss: 85.44922, Evaluation Loss: 442.5163
+
+Epoch #: 1060 -> Training Loss: 95.293396, Evaluation Loss: 462.98993
+
+Epoch #: 1070 -> Training Loss: 89.15367, Evaluation Loss: 450.65073
+
+Epoch #: 1080 -> Training Loss: 83.59285, Evaluation Loss: 439.94574
+
+Epoch #: 1090 -> Training Loss: 88.36887, Evaluation Loss: 446.42685
+
+Epoch #: 1100 -> Training Loss: 87.86143, Evaluation Loss: 444.8343
+
+Epoch #: 1110 -> Training Loss: 79.25825, Evaluation Loss: 425.2189
+
+Epoch #: 1120 -> Training Loss: 82.93527, Evaluation Loss: 434.93686
+
+Epoch #: 1130 -> Training Loss: 89.93006, Evaluation Loss: 445.86597
+
+Epoch #: 1140 -> Training Loss: 81.837875, Evaluation Loss: 430.75366
+
+Epoch #: 1150 -> Training Loss: 76.326, Evaluation Loss: 419.37915
+
+Epoch #: 1160 -> Training Loss: 80.88225, Evaluation Loss: 431.9638
+
+Epoch #: 1170 -> Training Loss: 77.46367, Evaluation Loss: 423.1159
+
+Epoch #: 1180 -> Training Loss: 79.16027, Evaluation Loss: 421.8839
+
+Epoch #: 1190 -> Training Loss: 103.21484, Evaluation Loss: 482.63425
+
+Epoch #: 1200 -> Training Loss: 90.94553, Evaluation Loss: 447.74963
+
+Epoch #: 1210 -> Training Loss: 81.00212, Evaluation Loss: 421.6179
+
+Epoch #: 1220 -> Training Loss: 101.26578, Evaluation Loss: 477.66965
+
+Epoch #: 1230 -> Training Loss: 84.06162, Evaluation Loss: 437.62714
+
+Epoch #: 1240 -> Training Loss: 78.05188, Evaluation Loss: 418.18506
+
+Epoch #: 1250 -> Training Loss: 89.46799, Evaluation Loss: 452.7254
+
+Epoch #: 1260 -> Training Loss: 91.595955, Evaluation Loss: 462.13467
+
+Epoch #: 1270 -> Training Loss: 85.861206, Evaluation Loss: 437.2435
+
+Epoch #: 1280 -> Training Loss: 79.970345, Evaluation Loss: 423.9009
+
+Epoch #: 1290 -> Training Loss: 90.10026, Evaluation Loss: 449.96228
+
+Epoch #: 1300 -> Training Loss: 96.098335, Evaluation Loss: 469.18744
+
+Epoch #: 1310 -> Training Loss: 89.60611, Evaluation Loss: 448.21738
+
+Epoch #: 1320 -> Training Loss: 88.535866, Evaluation Loss: 450.1206
+
+Epoch #: 1330 -> Training Loss: 96.25944, Evaluation Loss: 460.9042
+
+Epoch #: 1340 -> Training Loss: 81.95093, Evaluation Loss: 436.22284
+
+Epoch #: 1350 -> Training Loss: 92.07588, Evaluation Loss: 457.79736
+
+Epoch #: 1360 -> Training Loss: 91.3454, Evaluation Loss: 454.96136
+
+Epoch #: 1370 -> Training Loss: 86.430176, Evaluation Loss: 442.3954
+
+Epoch #: 1380 -> Training Loss: 78.01353, Evaluation Loss: 426.46667
+
+Epoch #: 1390 -> Training Loss: 76.96176, Evaluation Loss: 420.50418
+
+Epoch #: 1400 -> Training Loss: 71.38609, Evaluation Loss: 407.21252
+
+Epoch #: 1410 -> Training Loss: 86.249725, Evaluation Loss: 441.2631
+
+Epoch #: 1420 -> Training Loss: 80.38869, Evaluation Loss: 424.86203
+
+Epoch #: 1430 -> Training Loss: 85.46105, Evaluation Loss: 439.42804
+
+Epoch #: 1440 -> Training Loss: 86.527885, Evaluation Loss: 444.4855
+
+Epoch #: 1450 -> Training Loss: 90.89688, Evaluation Loss: 454.7498
+
+Epoch #: 1460 -> Training Loss: 85.24595, Evaluation Loss: 434.46228
+
+Epoch #: 1470 -> Training Loss: 73.08648, Evaluation Loss: 412.25714
+
+Epoch #: 1480 -> Training Loss: 93.31338, Evaluation Loss: 461.12897
+
+Epoch #: 1490 -> Training Loss: 86.71529, Evaluation Loss: 438.62616
+
+Epoch #: 1500 -> Training Loss: 85.625046, Evaluation Loss: 443.4757
+
+Epoch #: 1510 -> Training Loss: 77.527054, Evaluation Loss: 420.18375
+
+Epoch #: 1520 -> Training Loss: 81.991776, Evaluation Loss: 431.01028
+
+Epoch #: 1530 -> Training Loss: 71.67719, Evaluation Loss: 409.53622
+
+Epoch #: 1540 -> Training Loss: 94.988335, Evaluation Loss: 456.8824
+
+Epoch #: 1550 -> Training Loss: 84.52897, Evaluation Loss: 442.63892
+
+Epoch #: 1560 -> Training Loss: 90.51785, Evaluation Loss: 451.8304
+
+Epoch #: 1570 -> Training Loss: 88.82024, Evaluation Loss: 442.80893
+
+Epoch #: 1580 -> Training Loss: 76.84886, Evaluation Loss: 421.08484
+
+Epoch #: 1590 -> Training Loss: 78.6332, Evaluation Loss: 425.48676
+
+Epoch #: 1600 -> Training Loss: 78.65602, Evaluation Loss: 430.07816
+
+Epoch #: 1610 -> Training Loss: 95.9194, Evaluation Loss: 462.45474
+
+Epoch #: 1620 -> Training Loss: 89.984985, Evaluation Loss: 449.5778
+
+Epoch #: 1630 -> Training Loss: 81.44868, Evaluation Loss: 435.8218
+
+Epoch #: 1640 -> Training Loss: 81.142204, Evaluation Loss: 433.31393
+
+Epoch #: 1650 -> Training Loss: 72.63971, Evaluation Loss: 414.2108
+
+Epoch #: 1660 -> Training Loss: 81.71727, Evaluation Loss: 430.65012
+
+Epoch #: 1670 -> Training Loss: 85.35032, Evaluation Loss: 436.8145
+
+Epoch #: 1680 -> Training Loss: 81.32747, Evaluation Loss: 429.99896
+
+Epoch #: 1690 -> Training Loss: 84.53359, Evaluation Loss: 431.23373
+
+Epoch #: 1700 -> Training Loss: 80.69653, Evaluation Loss: 431.15576
+
+Epoch #: 1710 -> Training Loss: 84.02467, Evaluation Loss: 434.6752
+
+Epoch #: 1720 -> Training Loss: 92.19399, Evaluation Loss: 453.2745
+
+Epoch #: 1730 -> Training Loss: 82.73184, Evaluation Loss: 435.64786
+
+Epoch #: 1740 -> Training Loss: 87.045685, Evaluation Loss: 443.17557
+
+Epoch #: 1750 -> Training Loss: 84.28443, Evaluation Loss: 439.09277
+
+Epoch #: 1760 -> Training Loss: 84.85031, Evaluation Loss: 434.55737
+
+Epoch #: 1770 -> Training Loss: 92.78569, Evaluation Loss: 460.4346
+
+Epoch #: 1780 -> Training Loss: 90.526596, Evaluation Loss: 451.93436
+
+Epoch #: 1790 -> Training Loss: 80.36508, Evaluation Loss: 431.1236
+
+Epoch #: 1800 -> Training Loss: 86.72905, Evaluation Loss: 445.15594
+
+Epoch #: 1810 -> Training Loss: 85.32138, Evaluation Loss: 438.57303
+
+Epoch #: 1820 -> Training Loss: 86.04563, Evaluation Loss: 445.15802
+
+Epoch #: 1830 -> Training Loss: 94.6041, Evaluation Loss: 461.47906
+
+Epoch #: 1840 -> Training Loss: 94.460785, Evaluation Loss: 460.17447
+
+Epoch #: 1850 -> Training Loss: 92.378105, Evaluation Loss: 455.00223
+
+Epoch #: 1860 -> Training Loss: 93.1257, Evaluation Loss: 460.53955
+
+Epoch #: 1870 -> Training Loss: 80.99393, Evaluation Loss: 431.86203
+
+Epoch #: 1880 -> Training Loss: 79.772736, Evaluation Loss: 426.18918
+
+Epoch #: 1890 -> Training Loss: 87.98261, Evaluation Loss: 447.67548
+
+Epoch #: 1900 -> Training Loss: 87.238075, Evaluation Loss: 444.89493
+
+Epoch #: 1910 -> Training Loss: 84.11635, Evaluation Loss: 441.79788
+
+Epoch #: 1920 -> Training Loss: 76.10603, Evaluation Loss: 417.91998
+
+Epoch #: 1930 -> Training Loss: 82.934006, Evaluation Loss: 433.69482
+
+Epoch #: 1940 -> Training Loss: 82.48869, Evaluation Loss: 433.0735
+
+Epoch #: 1950 -> Training Loss: 88.82731, Evaluation Loss: 446.31714
+
+Epoch #: 1960 -> Training Loss: 87.191475, Evaluation Loss: 439.1057
+
+Epoch #: 1970 -> Training Loss: 80.66688, Evaluation Loss: 430.16687
+
+Epoch #: 1980 -> Training Loss: 102.21105, Evaluation Loss: 476.4783
+
+Epoch #: 1990 -> Training Loss: 85.71339, Evaluation Loss: 444.5876
+
+Epoch #: 2000 -> Training Loss: 93.951866, Evaluation Loss: 457.1186
+
+Epoch #: 2010 -> Training Loss: 85.43241, Evaluation Loss: 439.27148
+
+Epoch #: 2020 -> Training Loss: 90.62125, Evaluation Loss: 448.97055
+
+Epoch #: 2030 -> Training Loss: 84.06683, Evaluation Loss: 433.90057
+
+Epoch #: 2040 -> Training Loss: 84.03764, Evaluation Loss: 436.82782
+
+Epoch #: 2050 -> Training Loss: 87.95345, Evaluation Loss: 442.60065
+
+Epoch #: 2060 -> Training Loss: 81.46046, Evaluation Loss: 431.86023
+
+Epoch #: 2070 -> Training Loss: 95.98011, Evaluation Loss: 465.83466
+
+Epoch #: 2080 -> Training Loss: 93.88138, Evaluation Loss: 459.2706
+
+Epoch #: 2090 -> Training Loss: 90.30806, Evaluation Loss: 453.991
+
+Epoch #: 2100 -> Training Loss: 81.89277, Evaluation Loss: 433.899
+
+Epoch #: 2110 -> Training Loss: 89.14637, Evaluation Loss: 449.91293
+
+Epoch #: 2120 -> Training Loss: 80.131676, Evaluation Loss: 429.05594
+
+Epoch #: 2130 -> Training Loss: 91.51978, Evaluation Loss: 454.82434
+
+Epoch #: 2140 -> Training Loss: 71.42384, Evaluation Loss: 406.59042
+
+Epoch #: 2150 -> Training Loss: 81.606285, Evaluation Loss: 432.2408
+
+Epoch #: 2160 -> Training Loss: 72.91952, Evaluation Loss: 409.9195
+
+Epoch #: 2170 -> Training Loss: 95.84855, Evaluation Loss: 466.16608
+
+Epoch #: 2180 -> Training Loss: 80.4592, Evaluation Loss: 429.9773
+
+Epoch #: 2190 -> Training Loss: 84.58877, Evaluation Loss: 435.16986
+
+Epoch #: 2200 -> Training Loss: 85.712585, Evaluation Loss: 444.03482
+
+Epoch #: 2210 -> Training Loss: 79.446495, Evaluation Loss: 426.13916
+
+Epoch #: 2220 -> Training Loss: 92.974754, Evaluation Loss: 453.4357
+
+Epoch #: 2230 -> Training Loss: 96.30317, Evaluation Loss: 460.84076
+
+Epoch #: 2240 -> Training Loss: 88.288635, Evaluation Loss: 446.13766
+
+Epoch #: 2250 -> Training Loss: 84.70574, Evaluation Loss: 437.36615
+
+Epoch #: 2260 -> Training Loss: 84.14244, Evaluation Loss: 434.6457
+
+Epoch #: 2270 -> Training Loss: 80.50835, Evaluation Loss: 427.6469
+
+Epoch #: 2280 -> Training Loss: 95.04223, Evaluation Loss: 463.77774
+
+Epoch #: 2290 -> Training Loss: 84.7099, Evaluation Loss: 439.61835
+
+Epoch #: 2300 -> Training Loss: 86.20945, Evaluation Loss: 435.40094
+
+Epoch #: 2310 -> Training Loss: 84.47366, Evaluation Loss: 436.32455
+
+Epoch #: 2320 -> Training Loss: 83.35928, Evaluation Loss: 431.8462
+
+Epoch #: 2330 -> Training Loss: 85.43706, Evaluation Loss: 443.04767
+
+Epoch #: 2340 -> Training Loss: 85.85658, Evaluation Loss: 441.13284
+
+Epoch #: 2350 -> Training Loss: 82.84966, Evaluation Loss: 435.34415
+
+Epoch #: 2360 -> Training Loss: 83.05632, Evaluation Loss: 438.4926
+
+Epoch #: 2370 -> Training Loss: 89.20143, Evaluation Loss: 450.9318
+
+Epoch #: 2380 -> Training Loss: 82.76923, Evaluation Loss: 436.9415
+
+Epoch #: 2390 -> Training Loss: 93.50824, Evaluation Loss: 454.983
+
+Epoch #: 2400 -> Training Loss: 82.610954, Evaluation Loss: 429.5004
+
+Epoch #: 2410 -> Training Loss: 84.08098, Evaluation Loss: 433.60352
+
+Epoch #: 2420 -> Training Loss: 84.26565, Evaluation Loss: 436.48557
+
+Epoch #: 2430 -> Training Loss: 77.4694, Evaluation Loss: 416.87305
+
+Epoch #: 2440 -> Training Loss: 83.83522, Evaluation Loss: 436.5406
+
+Epoch #: 2450 -> Training Loss: 94.6372, Evaluation Loss: 463.6752
+
+Epoch #: 2460 -> Training Loss: 89.48458, Evaluation Loss: 451.58023
+
+Epoch #: 2470 -> Training Loss: 95.40944, Evaluation Loss: 458.89105
+
+Epoch #: 2480 -> Training Loss: 76.996346, Evaluation Loss: 421.47684
+
+Epoch #: 2490 -> Training Loss: 86.17736, Evaluation Loss: 442.5791
+
+Epoch #: 2500 -> Training Loss: 81.649635, Evaluation Loss: 428.22192
+
+Epoch #: 2510 -> Training Loss: 84.83874, Evaluation Loss: 443.14676
+
+Epoch #: 2520 -> Training Loss: 87.61766, Evaluation Loss: 445.00638
+
+Epoch #: 2530 -> Training Loss: 89.12334, Evaluation Loss: 449.2516
+
+Epoch #: 2540 -> Training Loss: 81.72907, Evaluation Loss: 425.13412
+
+Epoch #: 2550 -> Training Loss: 92.96082, Evaluation Loss: 455.90994
+
+Epoch #: 2560 -> Training Loss: 101.2879, Evaluation Loss: 475.7256
+
+Epoch #: 2570 -> Training Loss: 77.090614, Evaluation Loss: 421.32413
+
+Epoch #: 2580 -> Training Loss: 88.07435, Evaluation Loss: 445.2509
+
+Epoch #: 2590 -> Training Loss: 79.693886, Evaluation Loss: 424.0153
+
+Epoch #: 2600 -> Training Loss: 82.697, Evaluation Loss: 436.28354
+
+Epoch #: 2610 -> Training Loss: 77.416374, Evaluation Loss: 424.7793
+
+Epoch #: 2620 -> Training Loss: 93.050385, Evaluation Loss: 459.5138
+
+Epoch #: 2630 -> Training Loss: 81.90525, Evaluation Loss: 431.2112
+
+Epoch #: 2640 -> Training Loss: 82.09552, Evaluation Loss: 431.73203
+
+Epoch #: 2650 -> Training Loss: 84.82329, Evaluation Loss: 439.67215
+
+Epoch #: 2660 -> Training Loss: 77.977196, Evaluation Loss: 421.13577
+
+Epoch #: 2670 -> Training Loss: 83.51008, Evaluation Loss: 433.02246
+
+Epoch #: 2680 -> Training Loss: 93.63375, Evaluation Loss: 458.43817
+
+Epoch #: 2690 -> Training Loss: 88.85133, Evaluation Loss: 443.6585
+
+Epoch #: 2700 -> Training Loss: 84.2729, Evaluation Loss: 438.8974
+
+Epoch #: 2710 -> Training Loss: 84.41705, Evaluation Loss: 442.35687
+
+Epoch #: 2720 -> Training Loss: 84.50286, Evaluation Loss: 437.64194
+
+Epoch #: 2730 -> Training Loss: 91.30489, Evaluation Loss: 456.98306
+
+Epoch #: 2740 -> Training Loss: 81.796104, Evaluation Loss: 432.3299
+
+Epoch #: 2750 -> Training Loss: 88.42561, Evaluation Loss: 439.69675
+
+Epoch #: 2760 -> Training Loss: 87.73348, Evaluation Loss: 447.20016
+
+Epoch #: 2770 -> Training Loss: 78.32414, Evaluation Loss: 424.0571
+
+Epoch #: 2780 -> Training Loss: 78.903946, Evaluation Loss: 426.14972
+
+Epoch #: 2790 -> Training Loss: 89.0045, Evaluation Loss: 448.42093
+
+Epoch #: 2800 -> Training Loss: 85.23417, Evaluation Loss: 440.28284
+
+Epoch #: 2810 -> Training Loss: 84.95434, Evaluation Loss: 440.61273
+
+Epoch #: 2820 -> Training Loss: 86.20472, Evaluation Loss: 440.7934
+
+Epoch #: 2830 -> Training Loss: 89.007706, Evaluation Loss: 448.79355
+
+Epoch #: 2840 -> Training Loss: 84.67351, Evaluation Loss: 438.86972
+
+Epoch #: 2850 -> Training Loss: 74.942505, Evaluation Loss: 412.65085
+
+Epoch #: 2860 -> Training Loss: 85.7492, Evaluation Loss: 443.0386
+
+Epoch #: 2870 -> Training Loss: 92.26935, Evaluation Loss: 457.24197
+
+Epoch #: 2880 -> Training Loss: 93.01399, Evaluation Loss: 454.9441
+
+Epoch #: 2890 -> Training Loss: 81.076065, Evaluation Loss: 427.76965
+
+Epoch #: 2900 -> Training Loss: 91.79436, Evaluation Loss: 451.06363
+
+Epoch #: 2910 -> Training Loss: 77.168915, Evaluation Loss: 422.75656
+
+Epoch #: 2920 -> Training Loss: 88.594765, Evaluation Loss: 445.79785
+
+Epoch #: 2930 -> Training Loss: 81.680725, Evaluation Loss: 434.05478
+
+Epoch #: 2940 -> Training Loss: 80.94605, Evaluation Loss: 427.88333
+
+Epoch #: 2950 -> Training Loss: 96.8433, Evaluation Loss: 463.88666
+
+Epoch #: 2960 -> Training Loss: 75.742294, Evaluation Loss: 418.85443
+
+Epoch #: 2970 -> Training Loss: 87.85779, Evaluation Loss: 442.70468
+
+Epoch #: 2980 -> Training Loss: 100.46542, Evaluation Loss: 472.03848
+
+Epoch #: 2990 -> Training Loss: 85.31337, Evaluation Loss: 439.75366
+
+Epoch #: 3000 -> Training Loss: 86.452545, Evaluation Loss: 436.8648
+
+Epoch #: 3010 -> Training Loss: 83.937065, Evaluation Loss: 435.34296
+
+Epoch #: 3020 -> Training Loss: 91.61774, Evaluation Loss: 452.32135
+
+Epoch #: 3030 -> Training Loss: 90.87579, Evaluation Loss: 449.88864
+
+Epoch #: 3040 -> Training Loss: 84.22622, Evaluation Loss: 435.02594
+
+Epoch #: 3050 -> Training Loss: 90.64439, Evaluation Loss: 453.37344
+
+Epoch #: 3060 -> Training Loss: 88.085236, Evaluation Loss: 445.59088
+
+Epoch #: 3070 -> Training Loss: 94.277855, Evaluation Loss: 460.51108
+
+Epoch #: 3080 -> Training Loss: 77.64616, Evaluation Loss: 420.9375
+
+Epoch #: 3090 -> Training Loss: 80.964066, Evaluation Loss: 429.43555
+
+Epoch #: 3100 -> Training Loss: 95.91151, Evaluation Loss: 461.43512
+
+Epoch #: 3110 -> Training Loss: 84.04676, Evaluation Loss: 433.99854
+
+Epoch #: 3120 -> Training Loss: 90.96978, Evaluation Loss: 453.13354
+
+Epoch #: 3130 -> Training Loss: 87.371994, Evaluation Loss: 445.24316
+
+Epoch #: 3140 -> Training Loss: 81.485954, Evaluation Loss: 428.60577
+
+Epoch #: 3150 -> Training Loss: 80.601875, Evaluation Loss: 423.35
+
+Epoch #: 3160 -> Training Loss: 89.73756, Evaluation Loss: 447.08505
+
+Epoch #: 3170 -> Training Loss: 89.12252, Evaluation Loss: 443.69064
+
+Epoch #: 3180 -> Training Loss: 88.13667, Evaluation Loss: 444.95892
+
+Epoch #: 3190 -> Training Loss: 91.59413, Evaluation Loss: 449.50107
+
+Epoch #: 3200 -> Training Loss: 85.66105, Evaluation Loss: 441.65326
+
+Epoch #: 3210 -> Training Loss: 75.05355, Evaluation Loss: 416.63107
+
+Epoch #: 3220 -> Training Loss: 77.94522, Evaluation Loss: 421.5122
+
+Epoch #: 3230 -> Training Loss: 93.719635, Evaluation Loss: 460.115
+
+Epoch #: 3240 -> Training Loss: 80.47387, Evaluation Loss: 427.7349
+
+Epoch #: 3250 -> Training Loss: 79.52864, Evaluation Loss: 425.88614
+
+Epoch #: 3260 -> Training Loss: 94.141754, Evaluation Loss: 459.62704
+
+Epoch #: 3270 -> Training Loss: 93.38493, Evaluation Loss: 456.63257
+
+Epoch #: 3280 -> Training Loss: 85.36861, Evaluation Loss: 441.7139
+
+Epoch #: 3290 -> Training Loss: 78.34691, Evaluation Loss: 421.51883
+
+Epoch #: 3300 -> Training Loss: 88.411156, Evaluation Loss: 445.27612
+
+Epoch #: 3310 -> Training Loss: 82.55935, Evaluation Loss: 436.0902
+
+Epoch #: 3320 -> Training Loss: 84.74718, Evaluation Loss: 438.17105
+
+Epoch #: 3330 -> Training Loss: 84.39767, Evaluation Loss: 435.3861
+
+Epoch #: 3340 -> Training Loss: 86.375595, Evaluation Loss: 440.99197
+
+Epoch #: 3350 -> Training Loss: 80.41933, Evaluation Loss: 428.83337
+
+Epoch #: 3360 -> Training Loss: 80.32762, Evaluation Loss: 423.24936
+
+Epoch #: 3370 -> Training Loss: 86.874695, Evaluation Loss: 445.2527
+
+Epoch #: 3380 -> Training Loss: 82.39795, Evaluation Loss: 434.60513
+
+Epoch #: 3390 -> Training Loss: 83.458755, Evaluation Loss: 435.02206
+
+Epoch #: 3400 -> Training Loss: 85.6289, Evaluation Loss: 441.69034
+
+Epoch #: 3410 -> Training Loss: 90.93682, Evaluation Loss: 454.13672
+
+Epoch #: 3420 -> Training Loss: 85.00158, Evaluation Loss: 440.84683
+
+Epoch #: 3430 -> Training Loss: 74.984055, Evaluation Loss: 416.00168
+
+Epoch #: 3440 -> Training Loss: 104.69262, Evaluation Loss: 481.03116
+
+Epoch #: 3450 -> Training Loss: 90.17002, Evaluation Loss: 450.03342
+
+Epoch #: 3460 -> Training Loss: 82.95964, Evaluation Loss: 425.38184
+
+Epoch #: 3470 -> Training Loss: 80.57905, Evaluation Loss: 433.0282
+
+Epoch #: 3480 -> Training Loss: 81.03035, Evaluation Loss: 428.8478
+
+Epoch #: 3490 -> Training Loss: 95.24236, Evaluation Loss: 462.1751
+
+Epoch #: 3500 -> Training Loss: 81.68634, Evaluation Loss: 432.5279
+
+Epoch #: 3510 -> Training Loss: 73.8065, Evaluation Loss: 410.21536
+
+Epoch #: 3520 -> Training Loss: 83.81991, Evaluation Loss: 436.98578
+
+Epoch #: 3530 -> Training Loss: 92.01504, Evaluation Loss: 457.47665
+
+Epoch #: 3540 -> Training Loss: 80.622925, Evaluation Loss: 423.75058
+
+Epoch #: 3550 -> Training Loss: 82.32383, Evaluation Loss: 430.4046
+
+Epoch #: 3560 -> Training Loss: 82.131584, Evaluation Loss: 432.95132
+
+Epoch #: 3570 -> Training Loss: 98.06238, Evaluation Loss: 469.10294
+
+Epoch #: 3580 -> Training Loss: 76.58407, Evaluation Loss: 416.84805
+
+Epoch #: 3590 -> Training Loss: 89.45296, Evaluation Loss: 450.67007
+
+Epoch #: 3600 -> Training Loss: 80.79741, Evaluation Loss: 428.843
+
+Epoch #: 3610 -> Training Loss: 97.00606, Evaluation Loss: 462.51996
+
+Epoch #: 3620 -> Training Loss: 78.04784, Evaluation Loss: 419.84415
+
+Epoch #: 3630 -> Training Loss: 96.67312, Evaluation Loss: 463.3662
+
+Epoch #: 3640 -> Training Loss: 84.11802, Evaluation Loss: 431.8411
+
+Epoch #: 3650 -> Training Loss: 84.09792, Evaluation Loss: 438.44418
+
+Epoch #: 3660 -> Training Loss: 86.833244, Evaluation Loss: 443.2122
+
+Epoch #: 3670 -> Training Loss: 84.413315, Evaluation Loss: 440.97714
+
+Epoch #: 3680 -> Training Loss: 89.985374, Evaluation Loss: 452.38205
+
+Epoch #: 3690 -> Training Loss: 89.30887, Evaluation Loss: 451.10672
+
+Epoch #: 3700 -> Training Loss: 72.93194, Evaluation Loss: 411.1027
+
+Epoch #: 3710 -> Training Loss: 84.28787, Evaluation Loss: 435.99557
+
+Epoch #: 3720 -> Training Loss: 89.73536, Evaluation Loss: 452.67233
+
+Epoch #: 3730 -> Training Loss: 93.32002, Evaluation Loss: 457.29996
+
+Epoch #: 3740 -> Training Loss: 91.94877, Evaluation Loss: 453.5017
+
+Epoch #: 3750 -> Training Loss: 82.13959, Evaluation Loss: 434.75937
+
+Epoch #: 3760 -> Training Loss: 83.9904, Evaluation Loss: 435.67227
+
+Epoch #: 3770 -> Training Loss: 81.402115, Evaluation Loss: 430.46265
+
+Epoch #: 3780 -> Training Loss: 84.66247, Evaluation Loss: 438.99942
+
+Epoch #: 3790 -> Training Loss: 85.54802, Evaluation Loss: 443.68185
+
+Epoch #: 3800 -> Training Loss: 91.56727, Evaluation Loss: 448.03088
+
+Epoch #: 3810 -> Training Loss: 79.28275, Evaluation Loss: 428.06577
+
+Epoch #: 3820 -> Training Loss: 93.46809, Evaluation Loss: 456.06024
+
+Epoch #: 3830 -> Training Loss: 89.156, Evaluation Loss: 448.74536
+
+Epoch #: 3840 -> Training Loss: 87.81836, Evaluation Loss: 444.17892
+
+Epoch #: 3850 -> Training Loss: 81.47435, Evaluation Loss: 429.25235
+
+Epoch #: 3860 -> Training Loss: 88.44479, Evaluation Loss: 443.50787
+
+Epoch #: 3870 -> Training Loss: 81.15984, Evaluation Loss: 430.16476
+
+Epoch #: 3880 -> Training Loss: 80.69345, Evaluation Loss: 430.60608
+
+Epoch #: 3890 -> Training Loss: 81.22656, Evaluation Loss: 431.9894
+
+Epoch #: 3900 -> Training Loss: 84.69955, Evaluation Loss: 437.27902
+
+Epoch #: 3910 -> Training Loss: 82.53491, Evaluation Loss: 431.42215
+
+Epoch #: 3920 -> Training Loss: 94.91142, Evaluation Loss: 458.02582
+
+Epoch #: 3930 -> Training Loss: 89.2708, Evaluation Loss: 453.3691
+
+Epoch #: 3940 -> Training Loss: 89.07442, Evaluation Loss: 444.49475
+
+Epoch #: 3950 -> Training Loss: 90.41391, Evaluation Loss: 454.10272
+
+Epoch #: 3960 -> Training Loss: 86.09502, Evaluation Loss: 443.58914
+
+Epoch #: 3970 -> Training Loss: 86.11612, Evaluation Loss: 443.31912
+
+Epoch #: 3980 -> Training Loss: 91.65621, Evaluation Loss: 452.02405
+
+Epoch #: 3990 -> Training Loss: 88.29255, Evaluation Loss: 444.9715
+
+Epoch #: 4000 -> Training Loss: 91.906784, Evaluation Loss: 454.78015
+
+Epoch #: 4010 -> Training Loss: 84.3112, Evaluation Loss: 434.38095
+
+Epoch #: 4020 -> Training Loss: 81.72085, Evaluation Loss: 427.91473
+
+Epoch #: 4030 -> Training Loss: 86.960785, Evaluation Loss: 448.3198
+
+Epoch #: 4040 -> Training Loss: 81.09967, Evaluation Loss: 428.22034
+
+Epoch #: 4050 -> Training Loss: 95.98156, Evaluation Loss: 462.15973
+
+Epoch #: 4060 -> Training Loss: 78.54156, Evaluation Loss: 420.1169
+
+Epoch #: 4070 -> Training Loss: 91.705734, Evaluation Loss: 454.3855
+
+Epoch #: 4080 -> Training Loss: 95.41827, Evaluation Loss: 464.86795
+
+Epoch #: 4090 -> Training Loss: 88.686325, Evaluation Loss: 444.32227
+
+Epoch #: 4100 -> Training Loss: 81.77796, Evaluation Loss: 432.67017
+
+Epoch #: 4110 -> Training Loss: 83.585526, Evaluation Loss: 436.312
+
+Epoch #: 4120 -> Training Loss: 91.216484, Evaluation Loss: 449.86594
+
+Epoch #: 4130 -> Training Loss: 76.33906, Evaluation Loss: 416.21826
+
+Epoch #: 4140 -> Training Loss: 78.79498, Evaluation Loss: 424.28146
+
+Epoch #: 4150 -> Training Loss: 81.830605, Evaluation Loss: 430.9146
+
+Epoch #: 4160 -> Training Loss: 82.689445, Evaluation Loss: 434.36423
+
+Epoch #: 4170 -> Training Loss: 84.57632, Evaluation Loss: 435.84613
+
+Epoch #: 4180 -> Training Loss: 90.01622, Evaluation Loss: 447.7297
+
+Epoch #: 4190 -> Training Loss: 87.26713, Evaluation Loss: 441.03885
+
+Epoch #: 4200 -> Training Loss: 91.033325, Evaluation Loss: 450.52744
+
+Epoch #: 4210 -> Training Loss: 88.82677, Evaluation Loss: 447.8572
+
+Epoch #: 4220 -> Training Loss: 82.10646, Evaluation Loss: 430.27206
+
+Epoch #: 4230 -> Training Loss: 93.75753, Evaluation Loss: 458.23987
+
+Epoch #: 4240 -> Training Loss: 87.09092, Evaluation Loss: 447.62067
+
+Epoch #: 4250 -> Training Loss: 81.806, Evaluation Loss: 428.9164
+
+Epoch #: 4260 -> Training Loss: 83.272545, Evaluation Loss: 438.08267
+
+Epoch #: 4270 -> Training Loss: 90.93615, Evaluation Loss: 451.62036
+
+Epoch #: 4280 -> Training Loss: 83.411545, Evaluation Loss: 435.18906
+
+Epoch #: 4290 -> Training Loss: 88.12091, Evaluation Loss: 450.2586
+
+Epoch #: 4300 -> Training Loss: 81.28098, Evaluation Loss: 428.31656
+
+Epoch #: 4310 -> Training Loss: 77.03587, Evaluation Loss: 415.52643
+
+Epoch #: 4320 -> Training Loss: 91.06502, Evaluation Loss: 452.80856
+
+Epoch #: 4330 -> Training Loss: 89.73769, Evaluation Loss: 449.5812
+
+Epoch #: 4340 -> Training Loss: 82.05018, Evaluation Loss: 431.0482
+
+Epoch #: 4350 -> Training Loss: 84.23137, Evaluation Loss: 436.37152
+
+Epoch #: 4360 -> Training Loss: 95.45346, Evaluation Loss: 460.8581
+
+Epoch #: 4370 -> Training Loss: 83.47342, Evaluation Loss: 436.3628
+
+Epoch #: 4380 -> Training Loss: 81.53613, Evaluation Loss: 432.3403
+
+Epoch #: 4390 -> Training Loss: 91.90628, Evaluation Loss: 457.6722
+
+Epoch #: 4400 -> Training Loss: 85.38009, Evaluation Loss: 440.22064
+
+Epoch #: 4410 -> Training Loss: 84.29349, Evaluation Loss: 436.53204
+
+Epoch #: 4420 -> Training Loss: 85.34037, Evaluation Loss: 438.56323
+
+Epoch #: 4430 -> Training Loss: 81.974464, Evaluation Loss: 428.12775
+
+Epoch #: 4440 -> Training Loss: 77.6204, Evaluation Loss: 417.005
+
+Epoch #: 4450 -> Training Loss: 86.49998, Evaluation Loss: 443.36337
+
+Epoch #: 4460 -> Training Loss: 81.87495, Evaluation Loss: 430.85922
+
+Epoch #: 4470 -> Training Loss: 92.12763, Evaluation Loss: 451.6663
+
+Epoch #: 4480 -> Training Loss: 80.62038, Evaluation Loss: 424.62247
+
+Epoch #: 4490 -> Training Loss: 83.48542, Evaluation Loss: 434.9252
+
+Epoch #: 4500 -> Training Loss: 89.06477, Evaluation Loss: 449.66257
+
+Epoch #: 4510 -> Training Loss: 100.87527, Evaluation Loss: 479.80777
+
+Epoch #: 4520 -> Training Loss: 92.60969, Evaluation Loss: 454.76642
+
+Epoch #: 4530 -> Training Loss: 85.92509, Evaluation Loss: 443.96463
+
+Epoch #: 4540 -> Training Loss: 82.837456, Evaluation Loss: 434.86554
+
+Epoch #: 4550 -> Training Loss: 93.03842, Evaluation Loss: 458.6979
+
+Epoch #: 4560 -> Training Loss: 91.205025, Evaluation Loss: 458.51288
+
+Epoch #: 4570 -> Training Loss: 85.612785, Evaluation Loss: 441.9486
+
+Epoch #: 4580 -> Training Loss: 81.97691, Evaluation Loss: 430.1316
+
+Epoch #: 4590 -> Training Loss: 74.58267, Evaluation Loss: 416.49487
+
+Epoch #: 4600 -> Training Loss: 92.062614, Evaluation Loss: 452.0097
+
+Epoch #: 4610 -> Training Loss: 86.282455, Evaluation Loss: 440.49194
+
+Epoch #: 4620 -> Training Loss: 91.19323, Evaluation Loss: 453.63583
+
+Epoch #: 4630 -> Training Loss: 86.322556, Evaluation Loss: 442.29202
+
+Epoch #: 4640 -> Training Loss: 96.04554, Evaluation Loss: 465.35263
+
+Epoch #: 4650 -> Training Loss: 94.34436, Evaluation Loss: 458.72638
+
+Epoch #: 4660 -> Training Loss: 80.58602, Evaluation Loss: 428.2041
+
+Epoch #: 4670 -> Training Loss: 86.280945, Evaluation Loss: 438.19806
+
+Epoch #: 4680 -> Training Loss: 90.560585, Evaluation Loss: 454.8009
+
+Epoch #: 4690 -> Training Loss: 82.67138, Evaluation Loss: 425.88373
+
+Epoch #: 4700 -> Training Loss: 81.50917, Evaluation Loss: 431.07092
+
+Epoch #: 4710 -> Training Loss: 91.923676, Evaluation Loss: 450.23642
+
+Epoch #: 4720 -> Training Loss: 77.60832, Evaluation Loss: 418.7643
+
+Epoch #: 4730 -> Training Loss: 86.564255, Evaluation Loss: 438.90497
+
+Epoch #: 4740 -> Training Loss: 92.94404, Evaluation Loss: 456.042
+
+Epoch #: 4750 -> Training Loss: 100.96763, Evaluation Loss: 474.07477
+
+Epoch #: 4760 -> Training Loss: 92.56269, Evaluation Loss: 453.4231
+
+Epoch #: 4770 -> Training Loss: 84.90488, Evaluation Loss: 438.68808
+
+Epoch #: 4780 -> Training Loss: 87.3294, Evaluation Loss: 446.6986
+
+Epoch #: 4790 -> Training Loss: 77.64891, Evaluation Loss: 423.659
+
+Epoch #: 4800 -> Training Loss: 78.72235, Evaluation Loss: 421.3093
+
+Epoch #: 4810 -> Training Loss: 93.17348, Evaluation Loss: 459.11685
+
+Epoch #: 4820 -> Training Loss: 93.84608, Evaluation Loss: 456.3299
+
+Epoch #: 4830 -> Training Loss: 87.726006, Evaluation Loss: 444.89413
+
+Epoch #: 4840 -> Training Loss: 97.79258, Evaluation Loss: 468.8945
+
+Epoch #: 4850 -> Training Loss: 88.62334, Evaluation Loss: 445.84628
+
+Epoch #: 4860 -> Training Loss: 83.15778, Evaluation Loss: 429.4276
+
+Epoch #: 4870 -> Training Loss: 81.82432, Evaluation Loss: 433.9397
+
+Epoch #: 4880 -> Training Loss: 94.73739, Evaluation Loss: 458.3071
+
+Epoch #: 4890 -> Training Loss: 88.195206, Evaluation Loss: 440.71127
+
+Epoch #: 4900 -> Training Loss: 86.3852, Evaluation Loss: 443.16904
+
+Epoch #: 4910 -> Training Loss: 88.69062, Evaluation Loss: 447.40045
+
+Epoch #: 4920 -> Training Loss: 89.60841, Evaluation Loss: 448.42053
+
+Epoch #: 4930 -> Training Loss: 87.2577, Evaluation Loss: 445.54086
+
+Epoch #: 4940 -> Training Loss: 75.58213, Evaluation Loss: 420.50958
+
+Epoch #: 4950 -> Training Loss: 87.11057, Evaluation Loss: 444.21222
+
+Epoch #: 4960 -> Training Loss: 80.94029, Evaluation Loss: 430.08554
+
+Epoch #: 4970 -> Training Loss: 80.088806, Evaluation Loss: 425.44934
+
+Epoch #: 4980 -> Training Loss: 84.10859, Evaluation Loss: 437.29443
+
+Epoch #: 4990 -> Training Loss: 75.65949, Evaluation Loss: 416.3415
+
+Epoch #: 5000 -> Training Loss: 96.24712, Evaluation Loss: 463.0556
+
+Epoch #: 5010 -> Training Loss: 80.76283, Evaluation Loss: 424.05276
+
+Epoch #: 5020 -> Training Loss: 79.69054, Evaluation Loss: 423.6593
+
+Epoch #: 5030 -> Training Loss: 85.5813, Evaluation Loss: 440.68164
+
+Epoch #: 5040 -> Training Loss: 88.30242, Evaluation Loss: 445.25766
+
+Epoch #: 5050 -> Training Loss: 89.38471, Evaluation Loss: 444.2622
+
+Epoch #: 5060 -> Training Loss: 80.01114, Evaluation Loss: 425.66052
+
+Epoch #: 5070 -> Training Loss: 85.08667, Evaluation Loss: 442.82706
+
+Epoch #: 5080 -> Training Loss: 87.816216, Evaluation Loss: 440.40924
+
+Epoch #: 5090 -> Training Loss: 90.274895, Evaluation Loss: 452.40524
+
+Epoch #: 5100 -> Training Loss: 86.978966, Evaluation Loss: 444.72366
+
+Epoch #: 5110 -> Training Loss: 80.24426, Evaluation Loss: 427.95554
+
+Epoch #: 5120 -> Training Loss: 85.18869, Evaluation Loss: 436.0597
+
+Epoch #: 5130 -> Training Loss: 102.24773, Evaluation Loss: 475.46323
+
+Epoch #: 5140 -> Training Loss: 98.1469, Evaluation Loss: 462.99396
+
+Epoch #: 5150 -> Training Loss: 85.61582, Evaluation Loss: 435.74527
+
+Epoch #: 5160 -> Training Loss: 88.079704, Evaluation Loss: 443.55304
+
+Epoch #: 5170 -> Training Loss: 88.81329, Evaluation Loss: 447.85022
+
+Epoch #: 5180 -> Training Loss: 81.10542, Evaluation Loss: 427.5799
+
+Epoch #: 5190 -> Training Loss: 77.638084, Evaluation Loss: 421.05014
+
+Epoch #: 5200 -> Training Loss: 84.26336, Evaluation Loss: 438.13763
+
+Epoch #: 5210 -> Training Loss: 86.31046, Evaluation Loss: 440.2369
+
+Epoch #: 5220 -> Training Loss: 80.27327, Evaluation Loss: 429.30197
+
+Epoch #: 5230 -> Training Loss: 79.64063, Evaluation Loss: 425.95932
+
+Epoch #: 5240 -> Training Loss: 82.10216, Evaluation Loss: 430.61346
+
+Epoch #: 5250 -> Training Loss: 98.73257, Evaluation Loss: 465.49838
+
+Epoch #: 5260 -> Training Loss: 98.21685, Evaluation Loss: 471.57004
+
+Epoch #: 5270 -> Training Loss: 81.89159, Evaluation Loss: 425.17584
+
+Epoch #: 5280 -> Training Loss: 86.08252, Evaluation Loss: 440.0524
+
+Epoch #: 5290 -> Training Loss: 87.01561, Evaluation Loss: 439.4402
+
+Epoch #: 5300 -> Training Loss: 88.96721, Evaluation Loss: 445.17075
+
+Epoch #: 5310 -> Training Loss: 86.19291, Evaluation Loss: 442.6447
+
+Epoch #: 5320 -> Training Loss: 86.05369, Evaluation Loss: 437.99045
+
+Epoch #: 5330 -> Training Loss: 80.14719, Evaluation Loss: 425.225
+
+Epoch #: 5340 -> Training Loss: 92.624954, Evaluation Loss: 455.72617
+
+Epoch #: 5350 -> Training Loss: 91.91189, Evaluation Loss: 455.7398
+
+Epoch #: 5360 -> Training Loss: 86.75467, Evaluation Loss: 441.12863
+
+Epoch #: 5370 -> Training Loss: 91.080574, Evaluation Loss: 450.02493
+
+Epoch #: 5380 -> Training Loss: 84.32058, Evaluation Loss: 433.78308
+
+Epoch #: 5390 -> Training Loss: 88.19106, Evaluation Loss: 447.11508
+
+Epoch #: 5400 -> Training Loss: 92.18792, Evaluation Loss: 451.29004
+
+Epoch #: 5410 -> Training Loss: 94.96112, Evaluation Loss: 453.03635
+
+Epoch #: 5420 -> Training Loss: 92.445854, Evaluation Loss: 458.04803
+
+Epoch #: 5430 -> Training Loss: 83.332726, Evaluation Loss: 435.58932
+
+Epoch #: 5440 -> Training Loss: 80.41775, Evaluation Loss: 430.6679
+
+Epoch #: 5450 -> Training Loss: 86.61596, Evaluation Loss: 441.9639
+
+Epoch #: 5460 -> Training Loss: 76.49286, Evaluation Loss: 415.7208
+
+Epoch #: 5470 -> Training Loss: 92.821, Evaluation Loss: 454.6126
+
+Epoch #: 5480 -> Training Loss: 77.377594, Evaluation Loss: 421.69684
+
+Epoch #: 5490 -> Training Loss: 91.65487, Evaluation Loss: 453.08176
+
+Epoch #: 5500 -> Training Loss: 81.30169, Evaluation Loss: 428.13522
+
+Epoch #: 5510 -> Training Loss: 84.382904, Evaluation Loss: 433.55392
+
+Epoch #: 5520 -> Training Loss: 92.52483, Evaluation Loss: 452.31696
+
+Epoch #: 5530 -> Training Loss: 84.29109, Evaluation Loss: 435.56235
+
+Epoch #: 5540 -> Training Loss: 83.263565, Evaluation Loss: 430.3533
+
+Epoch #: 5550 -> Training Loss: 93.218895, Evaluation Loss: 453.67188
+
+Epoch #: 5560 -> Training Loss: 88.50286, Evaluation Loss: 447.1743
+
+Epoch #: 5570 -> Training Loss: 87.198364, Evaluation Loss: 450.13824
+
+Epoch #: 5580 -> Training Loss: 91.31041, Evaluation Loss: 454.92242
+
+Epoch #: 5590 -> Training Loss: 78.86121, Evaluation Loss: 420.5356
+
+Epoch #: 5600 -> Training Loss: 79.04129, Evaluation Loss: 423.67957
+
+Epoch #: 5610 -> Training Loss: 91.796555, Evaluation Loss: 457.84314
+
+Epoch #: 5620 -> Training Loss: 83.38539, Evaluation Loss: 431.66293
+
+Epoch #: 5630 -> Training Loss: 96.64829, Evaluation Loss: 463.00345
+
+Epoch #: 5640 -> Training Loss: 87.687805, Evaluation Loss: 443.90097
+
+Epoch #: 5650 -> Training Loss: 88.40524, Evaluation Loss: 444.88272
+
+Epoch #: 5660 -> Training Loss: 82.217834, Evaluation Loss: 431.8192
+
+Epoch #: 5670 -> Training Loss: 79.07608, Evaluation Loss: 423.5658
+
+Epoch #: 5680 -> Training Loss: 86.06905, Evaluation Loss: 434.3681
+
+Epoch #: 5690 -> Training Loss: 78.86204, Evaluation Loss: 426.13528
+
+Epoch #: 5700 -> Training Loss: 81.24897, Evaluation Loss: 426.40723
+
+Epoch #: 5710 -> Training Loss: 93.79917, Evaluation Loss: 456.74615
+
+Epoch #: 5720 -> Training Loss: 95.24483, Evaluation Loss: 459.27612
+
+Epoch #: 5730 -> Training Loss: 97.10575, Evaluation Loss: 466.2847
+
+Epoch #: 5740 -> Training Loss: 89.35693, Evaluation Loss: 444.6873
+
+Epoch #: 5750 -> Training Loss: 91.73094, Evaluation Loss: 453.86453
+
+Epoch #: 5760 -> Training Loss: 81.574, Evaluation Loss: 429.77362
+
+Epoch #: 5770 -> Training Loss: 82.16538, Evaluation Loss: 433.43555
+
+Epoch #: 5780 -> Training Loss: 83.45058, Evaluation Loss: 433.29468
+
+Epoch #: 5790 -> Training Loss: 85.60417, Evaluation Loss: 440.60013
+
+Epoch #: 5800 -> Training Loss: 92.92949, Evaluation Loss: 456.00378
+
+Epoch #: 5810 -> Training Loss: 85.56718, Evaluation Loss: 437.9038
+
+Epoch #: 5820 -> Training Loss: 94.60957, Evaluation Loss: 459.45663
+
+Epoch #: 5830 -> Training Loss: 90.054085, Evaluation Loss: 449.55707
+
+Epoch #: 5840 -> Training Loss: 90.5078, Evaluation Loss: 448.3555
+
+Epoch #: 5850 -> Training Loss: 91.44907, Evaluation Loss: 454.00998
+
+Epoch #: 5860 -> Training Loss: 93.714096, Evaluation Loss: 458.37485
+
+Epoch #: 5870 -> Training Loss: 93.864975, Evaluation Loss: 457.0307
+
+Epoch #: 5880 -> Training Loss: 91.11662, Evaluation Loss: 452.79742
+
+Epoch #: 5890 -> Training Loss: 90.4057, Evaluation Loss: 448.82742
+
+Epoch #: 5900 -> Training Loss: 73.04821, Evaluation Loss: 407.16412
+
+Epoch #: 5910 -> Training Loss: 78.98279, Evaluation Loss: 418.51242
+
+Epoch #: 5920 -> Training Loss: 82.79292, Evaluation Loss: 431.63712
+
+Epoch #: 5930 -> Training Loss: 89.30658, Evaluation Loss: 449.23746
+
+Epoch #: 5940 -> Training Loss: 85.476715, Evaluation Loss: 442.0722
+
+Epoch #: 5950 -> Training Loss: 83.26058, Evaluation Loss: 431.55627
+
+Epoch #: 5960 -> Training Loss: 83.06874, Evaluation Loss: 432.8226
+
+Epoch #: 5970 -> Training Loss: 82.03266, Evaluation Loss: 430.30228
+
+Epoch #: 5980 -> Training Loss: 89.195175, Evaluation Loss: 447.99548
+
+Epoch #: 5990 -> Training Loss: 84.05203, Evaluation Loss: 435.77988
+
+Epoch #: 6000 -> Training Loss: 83.279625, Evaluation Loss: 431.07025
+
+Epoch #: 6010 -> Training Loss: 90.948845, Evaluation Loss: 447.94873
+
+Epoch #: 6020 -> Training Loss: 83.31587, Evaluation Loss: 435.71658
+
+Epoch #: 6030 -> Training Loss: 86.64139, Evaluation Loss: 443.36105
+
+Epoch #: 6040 -> Training Loss: 86.64075, Evaluation Loss: 442.53256
+
+Epoch #: 6050 -> Training Loss: 92.78676, Evaluation Loss: 456.2118
+
+Epoch #: 6060 -> Training Loss: 81.46756, Evaluation Loss: 431.03864
+
+Epoch #: 6070 -> Training Loss: 85.98007, Evaluation Loss: 442.71414
+
+Epoch #: 6080 -> Training Loss: 89.11393, Evaluation Loss: 444.68448
+
+Epoch #: 6090 -> Training Loss: 97.1829, Evaluation Loss: 464.03098
+
+Epoch #: 6100 -> Training Loss: 82.4051, Evaluation Loss: 429.76437
+
+Epoch #: 6110 -> Training Loss: 90.2111, Evaluation Loss: 445.3998
+
+Epoch #: 6120 -> Training Loss: 84.444565, Evaluation Loss: 436.8361
+
+Epoch #: 6130 -> Training Loss: 85.51908, Evaluation Loss: 439.49606
+
+Epoch #: 6140 -> Training Loss: 82.239296, Evaluation Loss: 430.83405
+
+Epoch #: 6150 -> Training Loss: 93.739685, Evaluation Loss: 457.88318
+
+Epoch #: 6160 -> Training Loss: 89.85443, Evaluation Loss: 447.05957
+
+Epoch #: 6170 -> Training Loss: 80.027824, Evaluation Loss: 424.56354
+
+Epoch #: 6180 -> Training Loss: 80.17655, Evaluation Loss: 422.9616
+
+Epoch #: 6190 -> Training Loss: 82.7685, Evaluation Loss: 433.5172
+
+Epoch #: 6200 -> Training Loss: 83.7097, Evaluation Loss: 435.43637
+
+Epoch #: 6210 -> Training Loss: 87.72312, Evaluation Loss: 442.38812
+
+Epoch #: 6220 -> Training Loss: 81.825836, Evaluation Loss: 430.04218
+
+Epoch #: 6230 -> Training Loss: 70.916245, Evaluation Loss: 402.36017
+
+Epoch #: 6240 -> Training Loss: 82.79424, Evaluation Loss: 433.7393
+
+Epoch #: 6250 -> Training Loss: 86.25102, Evaluation Loss: 442.68588
+
+Epoch #: 6260 -> Training Loss: 84.62954, Evaluation Loss: 435.39566
+
+Epoch #: 6270 -> Training Loss: 83.9262, Evaluation Loss: 431.50323
+
+Epoch #: 6280 -> Training Loss: 91.00119, Evaluation Loss: 449.54132
+
+Epoch #: 6290 -> Training Loss: 81.03595, Evaluation Loss: 428.86108
+
+Epoch #: 6300 -> Training Loss: 75.08479, Evaluation Loss: 413.7579
+
+Epoch #: 6310 -> Training Loss: 94.962105, Evaluation Loss: 458.79877
+
+Epoch #: 6320 -> Training Loss: 83.62113, Evaluation Loss: 435.15817
+
+Epoch #: 6330 -> Training Loss: 79.42927, Evaluation Loss: 424.04202
+
+Epoch #: 6340 -> Training Loss: 78.43519, Evaluation Loss: 421.26306
+
+Epoch #: 6350 -> Training Loss: 84.19484, Evaluation Loss: 436.87195
+
+Epoch #: 6360 -> Training Loss: 88.38583, Evaluation Loss: 449.59134
+
+Epoch #: 6370 -> Training Loss: 97.86545, Evaluation Loss: 469.0176
+
+Epoch #: 6380 -> Training Loss: 93.21095, Evaluation Loss: 458.1663
+
+Epoch #: 6390 -> Training Loss: 86.655876, Evaluation Loss: 444.20297
+
+Epoch #: 6400 -> Training Loss: 88.12319, Evaluation Loss: 447.75964
+
+Epoch #: 6410 -> Training Loss: 99.00996, Evaluation Loss: 473.63742
+
+Epoch #: 6420 -> Training Loss: 87.19181, Evaluation Loss: 441.75623
+
+Epoch #: 6430 -> Training Loss: 87.90079, Evaluation Loss: 444.08755
+
+Epoch #: 6440 -> Training Loss: 95.78924, Evaluation Loss: 462.82507
+
+Epoch #: 6450 -> Training Loss: 84.58841, Evaluation Loss: 435.3163
+
+Epoch #: 6460 -> Training Loss: 83.7741, Evaluation Loss: 438.34793
+
+Epoch #: 6470 -> Training Loss: 75.8392, Evaluation Loss: 413.48102
+
+Epoch #: 6480 -> Training Loss: 84.706, Evaluation Loss: 440.2001
+
+Epoch #: 6490 -> Training Loss: 85.89983, Evaluation Loss: 436.91876
+
+Epoch #: 6500 -> Training Loss: 73.73768, Evaluation Loss: 409.93506
+
+Epoch #: 6510 -> Training Loss: 90.08589, Evaluation Loss: 449.84772
+
+Epoch #: 6520 -> Training Loss: 97.49146, Evaluation Loss: 465.04456
+
+Epoch #: 6530 -> Training Loss: 88.20724, Evaluation Loss: 445.90482
+
+Epoch #: 6540 -> Training Loss: 79.425476, Evaluation Loss: 427.20996
+
+Epoch #: 6550 -> Training Loss: 91.91901, Evaluation Loss: 454.51862
+
+Epoch #: 6560 -> Training Loss: 85.09586, Evaluation Loss: 437.35782
+
+Epoch #: 6570 -> Training Loss: 92.08551, Evaluation Loss: 448.48126
+
+Epoch #: 6580 -> Training Loss: 92.37887, Evaluation Loss: 453.83502
+
+Epoch #: 6590 -> Training Loss: 78.478165, Evaluation Loss: 421.048
+
+Epoch #: 6600 -> Training Loss: 79.993065, Evaluation Loss: 426.79755
+
+Epoch #: 6610 -> Training Loss: 91.00192, Evaluation Loss: 453.42526
+
+Epoch #: 6620 -> Training Loss: 86.01552, Evaluation Loss: 437.12167
+
+Epoch #: 6630 -> Training Loss: 86.78641, Evaluation Loss: 444.58542
+
+Epoch #: 6640 -> Training Loss: 78.63521, Evaluation Loss: 422.7001
+
+Epoch #: 6650 -> Training Loss: 96.85785, Evaluation Loss: 469.06662
+
+Epoch #: 6660 -> Training Loss: 90.17223, Evaluation Loss: 450.2238
+
+Epoch #: 6670 -> Training Loss: 87.133835, Evaluation Loss: 438.73486
+
+Epoch #: 6680 -> Training Loss: 89.98924, Evaluation Loss: 448.98074
+
+Epoch #: 6690 -> Training Loss: 82.627304, Evaluation Loss: 433.22696
+
+Epoch #: 6700 -> Training Loss: 84.505936, Evaluation Loss: 441.98053
+
+Epoch #: 6710 -> Training Loss: 76.57674, Evaluation Loss: 417.90552
+
+Epoch #: 6720 -> Training Loss: 81.77201, Evaluation Loss: 429.28107
+
+Epoch #: 6730 -> Training Loss: 81.73635, Evaluation Loss: 427.8675
+
+Epoch #: 6740 -> Training Loss: 85.598045, Evaluation Loss: 437.76123
+
+Epoch #: 6750 -> Training Loss: 88.63898, Evaluation Loss: 448.4957
+
+Epoch #: 6760 -> Training Loss: 80.228195, Evaluation Loss: 426.8731
+
+Epoch #: 6770 -> Training Loss: 88.493645, Evaluation Loss: 448.11703
+
+Epoch #: 6780 -> Training Loss: 83.94061, Evaluation Loss: 434.68106
+
+Epoch #: 6790 -> Training Loss: 84.287674, Evaluation Loss: 439.00037
+
+Epoch #: 6800 -> Training Loss: 84.60484, Evaluation Loss: 435.0705
+
+Epoch #: 6810 -> Training Loss: 90.11788, Evaluation Loss: 453.7855
+
+Epoch #: 6820 -> Training Loss: 72.01851, Evaluation Loss: 409.25455
+
+Epoch #: 6830 -> Training Loss: 97.765884, Evaluation Loss: 468.08893
+
+Epoch #: 6840 -> Training Loss: 83.4802, Evaluation Loss: 432.03625
+
+Epoch #: 6850 -> Training Loss: 96.78997, Evaluation Loss: 472.2667
+
+Epoch #: 6860 -> Training Loss: 81.80052, Evaluation Loss: 433.87662
+
+Epoch #: 6870 -> Training Loss: 80.36853, Evaluation Loss: 430.59586
+
+Epoch #: 6880 -> Training Loss: 83.960266, Evaluation Loss: 434.93597
+
+Epoch #: 6890 -> Training Loss: 74.069145, Evaluation Loss: 413.35352
+
+Epoch #: 6900 -> Training Loss: 73.12459, Evaluation Loss: 415.53394
+
+Epoch #: 6910 -> Training Loss: 79.00553, Evaluation Loss: 427.23557
+
+Epoch #: 6920 -> Training Loss: 80.366035, Evaluation Loss: 431.39664
+
+Epoch #: 6930 -> Training Loss: 79.65159, Evaluation Loss: 432.59076
+
+Epoch #: 6940 -> Training Loss: 82.49677, Evaluation Loss: 436.63702
+
+Epoch #: 6950 -> Training Loss: 75.46315, Evaluation Loss: 417.00574
+
+Epoch #: 6960 -> Training Loss: 71.28362, Evaluation Loss: 414.13797
+
+Epoch #: 6970 -> Training Loss: 71.894905, Evaluation Loss: 405.67902
+
+Epoch #: 6980 -> Training Loss: 65.56339, Evaluation Loss: 399.37296
+
+Epoch #: 6990 -> Training Loss: 47.397434, Evaluation Loss: 353.143
+
+Epoch #: 7000 -> Training Loss: 59.35425, Evaluation Loss: 380.90924
+
+Epoch #: 7010 -> Training Loss: 34.114346, Evaluation Loss: 310.6805
+
+Epoch #: 7020 -> Training Loss: 36.691147, Evaluation Loss: 316.71362
+
+Epoch #: 7030 -> Training Loss: 47.47535, Evaluation Loss: 345.14572
+
+Epoch #: 7040 -> Training Loss: 45.464737, Evaluation Loss: 340.90588
+
+Epoch #: 7050 -> Training Loss: 31.361904, Evaluation Loss: 307.10684
+
+Epoch #: 7060 -> Training Loss: 40.665382, Evaluation Loss: 327.4578
+
+Epoch #: 7070 -> Training Loss: 40.796257, Evaluation Loss: 330.12756
+
+Epoch #: 7080 -> Training Loss: 30.192066, Evaluation Loss: 297.43835
+
+Epoch #: 7090 -> Training Loss: 51.9344, Evaluation Loss: 362.54327
+
+Epoch #: 7100 -> Training Loss: 46.970367, Evaluation Loss: 354.76163
+
+Epoch #: 7110 -> Training Loss: 30.334717, Evaluation Loss: 303.9198
+
+Epoch #: 7120 -> Training Loss: 36.233353, Evaluation Loss: 313.83035
+
+Epoch #: 7130 -> Training Loss: 25.566616, Evaluation Loss: 287.8522
+
+Epoch #: 7140 -> Training Loss: 41.681267, Evaluation Loss: 335.1803
+
+Epoch #: 7150 -> Training Loss: 30.583626, Evaluation Loss: 306.28204
+
+Epoch #: 7160 -> Training Loss: 25.772158, Evaluation Loss: 280.63223
+
+Epoch #: 7170 -> Training Loss: 28.75506, Evaluation Loss: 297.8541
+
+Epoch #: 7180 -> Training Loss: 33.18431, Evaluation Loss: 306.2077
+
+Epoch #: 7190 -> Training Loss: 41.478447, Evaluation Loss: 332.63956
+
+Epoch #: 7200 -> Training Loss: 31.303919, Evaluation Loss: 305.0263
+
+Epoch #: 7210 -> Training Loss: 25.690636, Evaluation Loss: 289.6076
+
+Epoch #: 7220 -> Training Loss: 41.258003, Evaluation Loss: 330.564
+
+Epoch #: 7230 -> Training Loss: 40.141663, Evaluation Loss: 336.36884
+
+Epoch #: 7240 -> Training Loss: 18.999659, Evaluation Loss: 260.226
+
+Epoch #: 7250 -> Training Loss: 20.677803, Evaluation Loss: 268.64948
+
+Epoch #: 7260 -> Training Loss: 31.318262, Evaluation Loss: 303.68832
+
+Epoch #: 7270 -> Training Loss: 7.730899, Evaluation Loss: 209.41069
+
+Epoch #: 7280 -> Training Loss: 1.0948373, Evaluation Loss: 158.8959
+
+Epoch #: 7290 -> Training Loss: 1.1794075, Evaluation Loss: 154.93483
+
+Epoch #: 7300 -> Training Loss: 3.8365858, Evaluation Loss: 190.43277
+
+Epoch #: 7310 -> Training Loss: 3.0462017, Evaluation Loss: 181.67583
+
+Epoch #: 7320 -> Training Loss: 1.6494365, Evaluation Loss: 170.93323
+
+Epoch #: 7330 -> Training Loss: 1.6278198, Evaluation Loss: 167.53873
+
+Epoch #: 7340 -> Training Loss: 2.0922132, Evaluation Loss: 172.67888
+
+Epoch #: 7350 -> Training Loss: 1.9820099, Evaluation Loss: 124.38068
+
+Epoch #: 7360 -> Training Loss: 2.8185046, Evaluation Loss: 179.51437
+
+Epoch #: 7370 -> Training Loss: 3.3421106, Evaluation Loss: 185.73073
+
+Epoch #: 7380 -> Training Loss: 9.199867, Evaluation Loss: 215.89067
+
+Epoch #: 7390 -> Training Loss: 2.3543148, Evaluation Loss: 177.47275
+
+Epoch #: 7400 -> Training Loss: 1.9681528, Evaluation Loss: 169.7877
+
+Epoch #: 7410 -> Training Loss: 1.469342, Evaluation Loss: 168.95496
+
+Epoch #: 7420 -> Training Loss: 1.2436041, Evaluation Loss: 164.03671
+
+Epoch #: 7430 -> Training Loss: 1.7146246, Evaluation Loss: 167.3316
+
+Epoch #: 7440 -> Training Loss: 1.3459828, Evaluation Loss: 166.27835
+
+Epoch #: 7450 -> Training Loss: 3.2625387, Evaluation Loss: 184.01523
+
+Epoch #: 7460 -> Training Loss: 2.2333472, Evaluation Loss: 175.74959
+
+Epoch #: 7470 -> Training Loss: 2.9904535, Evaluation Loss: 181.4036
+
+Epoch #: 7480 -> Training Loss: 0.7697972, Evaluation Loss: 149.11362
+
+Epoch #: 7490 -> Training Loss: 0.92408794, Evaluation Loss: 155.2598
+
+Epoch #: 7500 -> Training Loss: 0.7586053, Evaluation Loss: 146.04527
+
+Epoch #: 7510 -> Training Loss: 0.83614516, Evaluation Loss: 149.56668
+
+Epoch #: 7520 -> Training Loss: 0.7660141, Evaluation Loss: 155.45113
+
+Epoch #: 7530 -> Training Loss: 1.2067422, Evaluation Loss: 160.35724
+
+Epoch #: 7540 -> Training Loss: 3.065268, Evaluation Loss: 178.35124
+
+Epoch #: 7550 -> Training Loss: 0.8672758, Evaluation Loss: 138.28708
+
+Epoch #: 7560 -> Training Loss: 2.1137824, Evaluation Loss: 124.25983
+
+Epoch #: 7570 -> Training Loss: 0.862568, Evaluation Loss: 137.65187
+
+Epoch #: 7580 -> Training Loss: 1.1107626, Evaluation Loss: 132.47507
+
+Epoch #: 7590 -> Training Loss: 1.926552, Evaluation Loss: 170.40482
+
+Epoch #: 7600 -> Training Loss: 1.4155201, Evaluation Loss: 165.01956
+
+Epoch #: 7610 -> Training Loss: 2.626222, Evaluation Loss: 178.97299
+
+Epoch #: 7620 -> Training Loss: 1.5745703, Evaluation Loss: 167.24557
+
+Epoch #: 7630 -> Training Loss: 0.91684633, Evaluation Loss: 136.4077
+
+Epoch #: 7640 -> Training Loss: 3.3201795, Evaluation Loss: 114.88764
+
+Epoch #: 7650 -> Training Loss: 1.5589036, Evaluation Loss: 128.26466
+
+Epoch #: 7660 -> Training Loss: 1.6590277, Evaluation Loss: 125.16601
+
+Epoch #: 7670 -> Training Loss: 1.2696712, Evaluation Loss: 163.47435
+
+Epoch #: 7680 -> Training Loss: 1.64521, Evaluation Loss: 167.32172
+
+Epoch #: 7690 -> Training Loss: 3.0754018, Evaluation Loss: 184.59042
+
+Epoch #: 7700 -> Training Loss: 8.020665, Evaluation Loss: 210.56912
+
+Epoch #: 7710 -> Training Loss: 3.0998378, Evaluation Loss: 180.27267
+
+Epoch #: 7720 -> Training Loss: 1.3460586, Evaluation Loss: 157.38881
+
+Epoch #: 7730 -> Training Loss: 1.6515124, Evaluation Loss: 167.00739
+
+Epoch #: 7740 -> Training Loss: 1.887833, Evaluation Loss: 168.65506
+
+Epoch #: 7750 -> Training Loss: 2.8661172, Evaluation Loss: 179.24919
+
+Epoch #: 7760 -> Training Loss: 0.7413366, Evaluation Loss: 152.13509
+
+Epoch #: 7770 -> Training Loss: 1.0810715, Evaluation Loss: 131.87242
+
+Epoch #: 7780 -> Training Loss: 1.6030626, Evaluation Loss: 128.41896
+
+Epoch #: 7790 -> Training Loss: 1.7894238, Evaluation Loss: 125.5771
+
+Epoch #: 7800 -> Training Loss: 0.6940566, Evaluation Loss: 151.5421
+
+Epoch #: 7810 -> Training Loss: 0.74015117, Evaluation Loss: 151.64204
+
+Epoch #: 7820 -> Training Loss: 3.1085427, Evaluation Loss: 180.0872
+
+Epoch #: 7830 -> Training Loss: 0.68290144, Evaluation Loss: 141.5837
+
+Epoch #: 7840 -> Training Loss: 2.0460382, Evaluation Loss: 124.32185
+
+Epoch #: 7850 -> Training Loss: 1.68811, Evaluation Loss: 170.01402
+
+Epoch #: 7860 -> Training Loss: 1.4992423, Evaluation Loss: 163.7769
+
+Epoch #: 7870 -> Training Loss: 1.2094898, Evaluation Loss: 132.2229
+
+Epoch #: 7880 -> Training Loss: 1.2713581, Evaluation Loss: 131.35258
+
+Epoch #: 7890 -> Training Loss: 1.5168159, Evaluation Loss: 127.869675
+
+Epoch #: 7900 -> Training Loss: 2.182325, Evaluation Loss: 123.041145
+
+Epoch #: 7910 -> Training Loss: 1.1725966, Evaluation Loss: 161.971
+
+Epoch #: 7920 -> Training Loss: 1.1984031, Evaluation Loss: 159.02995
+
+Epoch #: 7930 -> Training Loss: 2.1456683, Evaluation Loss: 122.41364
+
+Epoch #: 7940 -> Training Loss: 2.1531549, Evaluation Loss: 123.15694
+
+Epoch #: 7950 -> Training Loss: 1.0625082, Evaluation Loss: 132.23756
+
+Epoch #: 7960 -> Training Loss: 1.4918044, Evaluation Loss: 126.87469
+
+Epoch #: 7970 -> Training Loss: 1.698669, Evaluation Loss: 127.542534
+
+Epoch #: 7980 -> Training Loss: 1.24089, Evaluation Loss: 130.91447
+
+Epoch #: 7990 -> Training Loss: 3.0409715, Evaluation Loss: 121.1017
+
+Epoch #: 8000 -> Training Loss: 0.9307584, Evaluation Loss: 145.64967
+
+Epoch #: 8010 -> Training Loss: 2.5313754, Evaluation Loss: 175.58997
+
+Epoch #: 8020 -> Training Loss: 2.6427546, Evaluation Loss: 180.67104
+
+Epoch #: 8030 -> Training Loss: 1.1121275, Evaluation Loss: 162.51799
+
+Epoch #: 8040 -> Training Loss: 2.0502489, Evaluation Loss: 172.82379
+
+Epoch #: 8050 -> Training Loss: 1.626142, Evaluation Loss: 129.334
+
+Epoch #: 8060 -> Training Loss: 4.7561007, Evaluation Loss: 193.7631
+
+Epoch #: 8070 -> Training Loss: 1.1354164, Evaluation Loss: 157.81668
+
+Epoch #: 8080 -> Training Loss: 0.68638164, Evaluation Loss: 144.78705
+
+Epoch #: 8090 -> Training Loss: 1.715435, Evaluation Loss: 125.513855
+
+Epoch #: 8100 -> Training Loss: 0.68829703, Evaluation Loss: 144.60152
+
+Epoch #: 8110 -> Training Loss: 0.8290051, Evaluation Loss: 136.23547
+
+Epoch #: 8120 -> Training Loss: 0.65039766, Evaluation Loss: 138.94391
+
+Epoch #: 8130 -> Training Loss: 1.0032252, Evaluation Loss: 138.84229
+
+Epoch #: 8140 -> Training Loss: 1.9493188, Evaluation Loss: 125.23225
+
+Epoch #: 8150 -> Training Loss: 1.5081782, Evaluation Loss: 128.98512
+
+Epoch #: 8160 -> Training Loss: 1.4710823, Evaluation Loss: 167.99709
+
+Epoch #: 8170 -> Training Loss: 0.94878423, Evaluation Loss: 155.79118
+
+Epoch #: 8180 -> Training Loss: 1.9693676, Evaluation Loss: 123.35181
+
+Epoch #: 8190 -> Training Loss: 1.9439582, Evaluation Loss: 124.357346
+
+Epoch #: 8200 -> Training Loss: 1.1244656, Evaluation Loss: 131.06352
+
+Epoch #: 8210 -> Training Loss: 1.491747, Evaluation Loss: 127.75848
+
+Epoch #: 8220 -> Training Loss: 0.8961609, Evaluation Loss: 134.79727
+
+Epoch #: 8230 -> Training Loss: 1.9261721, Evaluation Loss: 121.37928
+
+Epoch #: 8240 -> Training Loss: 1.5587175, Evaluation Loss: 125.668915
+
+Epoch #: 8250 -> Training Loss: 1.0660853, Evaluation Loss: 158.49321
+
+Epoch #: 8260 -> Training Loss: 2.5194333, Evaluation Loss: 178.40317
+
+Epoch #: 8270 -> Training Loss: 0.6901314, Evaluation Loss: 136.81815
+
+Epoch #: 8280 -> Training Loss: 1.9954035, Evaluation Loss: 125.87517
+
+Epoch #: 8290 -> Training Loss: 1.4852158, Evaluation Loss: 128.98732
+
+Epoch #: 8300 -> Training Loss: 4.69245, Evaluation Loss: 108.71891
+
+Epoch #: 8310 -> Training Loss: 0.9504452, Evaluation Loss: 133.34335
+
+Epoch #: 8320 -> Training Loss: 1.0093648, Evaluation Loss: 131.5688
+
+Epoch #: 8330 -> Training Loss: 1.6074649, Evaluation Loss: 127.91398
+
+Epoch #: 8340 -> Training Loss: 1.3225367, Evaluation Loss: 165.91013
+
+Epoch #: 8350 -> Training Loss: 2.6279705, Evaluation Loss: 178.55772
+
+Epoch #: 8360 -> Training Loss: 1.0332475, Evaluation Loss: 161.15938
+
+Epoch #: 8370 -> Training Loss: 15.554813, Evaluation Loss: 245.52068
+
+Epoch #: 8380 -> Training Loss: 13.762424, Evaluation Loss: 237.69872
+
+Epoch #: 8390 -> Training Loss: 21.270662, Evaluation Loss: 265.5931
+
+Epoch #: 8400 -> Training Loss: 14.84918, Evaluation Loss: 239.8813
+
+Epoch #: 8410 -> Training Loss: 9.724438, Evaluation Loss: 220.47311
+
+Epoch #: 8420 -> Training Loss: 18.265919, Evaluation Loss: 258.945
+
+Epoch #: 8430 -> Training Loss: 15.408161, Evaluation Loss: 246.69034
+
+Epoch #: 8440 -> Training Loss: 16.493961, Evaluation Loss: 250.10284
+
+Epoch #: 8450 -> Training Loss: 2.3431768, Evaluation Loss: 173.72006
+
+Epoch #: 8460 -> Training Loss: 11.563387, Evaluation Loss: 228.47867
+
+Epoch #: 8470 -> Training Loss: 1.3508455, Evaluation Loss: 154.34859
+
+Epoch #: 8480 -> Training Loss: 1.8633488, Evaluation Loss: 172.75209
+
+Epoch #: 8490 -> Training Loss: 2.03207, Evaluation Loss: 173.86842
+
+Epoch #: 8500 -> Training Loss: 2.152766, Evaluation Loss: 128.83421
+
+Epoch #: 8510 -> Training Loss: 3.877789, Evaluation Loss: 115.79585
+
+Epoch #: 8520 -> Training Loss: 1.0930189, Evaluation Loss: 136.8632
+
+Epoch #: 8530 -> Training Loss: 1.4656165, Evaluation Loss: 138.27425
+
+Epoch #: 8540 -> Training Loss: 1.7533026, Evaluation Loss: 126.86221
+
+Epoch #: 8550 -> Training Loss: 1.9642801, Evaluation Loss: 128.32852
+
+Epoch #: 8560 -> Training Loss: 0.89816535, Evaluation Loss: 140.12361
+
+Epoch #: 8570 -> Training Loss: 1.9680939, Evaluation Loss: 134.83717
+
+Epoch #: 8580 -> Training Loss: 1.4897307, Evaluation Loss: 164.58217
+
+Epoch #: 8590 -> Training Loss: 0.8654606, Evaluation Loss: 144.32074
+
+Epoch #: 8600 -> Training Loss: 7.450109, Evaluation Loss: 207.15385
+
+Epoch #: 8610 -> Training Loss: 2.7197938, Evaluation Loss: 166.25111
+
+Epoch #: 8620 -> Training Loss: 1.218001, Evaluation Loss: 162.6593
+
+Epoch #: 8630 -> Training Loss: 3.4102123, Evaluation Loss: 175.01675
+
+Epoch #: 8640 -> Training Loss: 2.8031642, Evaluation Loss: 178.96529
+
+Epoch #: 8650 -> Training Loss: 4.2919397, Evaluation Loss: 109.439964
+
+Epoch #: 8660 -> Training Loss: 1.2364335, Evaluation Loss: 150.8125
+
+Epoch #: 8670 -> Training Loss: 1.1876602, Evaluation Loss: 131.2847
+
+Epoch #: 8680 -> Training Loss: 4.008944, Evaluation Loss: 115.11372
+
+Epoch #: 8690 -> Training Loss: 1.7752106, Evaluation Loss: 126.29859
+
+Epoch #: 8700 -> Training Loss: 3.4148345, Evaluation Loss: 180.32121
+
+Epoch #: 8710 -> Training Loss: 2.1118517, Evaluation Loss: 173.03896
+
+Epoch #: 8720 -> Training Loss: 0.98828393, Evaluation Loss: 152.90924
+
+Epoch #: 8730 -> Training Loss: 1.3965919, Evaluation Loss: 161.4918
+
+Epoch #: 8740 -> Training Loss: 1.6015557, Evaluation Loss: 130.2954
+
+Epoch #: 8750 -> Training Loss: 3.2050576, Evaluation Loss: 118.93525
+
+Epoch #: 8760 -> Training Loss: 2.4146938, Evaluation Loss: 167.80356
+
+Epoch #: 8770 -> Training Loss: 1.2965941, Evaluation Loss: 162.23766
+
+Epoch #: 8780 -> Training Loss: 2.0320356, Evaluation Loss: 125.737526
+
+Epoch #: 8790 -> Training Loss: 3.4049807, Evaluation Loss: 179.0185
+
+Epoch #: 8800 -> Training Loss: 2.3603065, Evaluation Loss: 124.35069
+
+Epoch #: 8810 -> Training Loss: 1.4345585, Evaluation Loss: 128.7504
+
+Epoch #: 8820 -> Training Loss: 3.161291, Evaluation Loss: 175.58998
+
+Epoch #: 8830 -> Training Loss: 1.9037572, Evaluation Loss: 173.17345
+
+Epoch #: 8840 -> Training Loss: 12.332048, Evaluation Loss: 91.35045
+
+Epoch #: 8850 -> Training Loss: 2.378683, Evaluation Loss: 122.34173
+
+Epoch #: 8860 -> Training Loss: 2.7494593, Evaluation Loss: 119.91565
+
+Epoch #: 8870 -> Training Loss: 0.9664953, Evaluation Loss: 150.1055
+
+Epoch #: 8880 -> Training Loss: 1.6070591, Evaluation Loss: 156.5422
+
+Epoch #: 8890 -> Training Loss: 1.3231305, Evaluation Loss: 158.08327
+
+Epoch #: 8900 -> Training Loss: 2.973273, Evaluation Loss: 178.72221
+
+Epoch #: 8910 -> Training Loss: 1.3539565, Evaluation Loss: 161.44257
+
+Epoch #: 8920 -> Training Loss: 1.3472321, Evaluation Loss: 160.39223
+
+Epoch #: 8930 -> Training Loss: 2.0350924, Evaluation Loss: 157.08292
+
+Epoch #: 8940 -> Training Loss: 2.5539138, Evaluation Loss: 171.20924
+
+Epoch #: 8950 -> Training Loss: 0.990158, Evaluation Loss: 142.94713
+
+Epoch #: 8960 -> Training Loss: 1.2376626, Evaluation Loss: 132.20772
+
+Epoch #: 8970 -> Training Loss: 2.5160573, Evaluation Loss: 122.40696
+
+Epoch #: 8980 -> Training Loss: 0.95908374, Evaluation Loss: 158.73485
+
+Epoch #: 8990 -> Training Loss: 1.7081643, Evaluation Loss: 165.1123
+
+Epoch #: 9000 -> Training Loss: 2.9168367, Evaluation Loss: 180.283
+
+Epoch #: 9010 -> Training Loss: 1.659931, Evaluation Loss: 170.29605
+
+Epoch #: 9020 -> Training Loss: 0.95149815, Evaluation Loss: 162.39928
+
+Epoch #: 9030 -> Training Loss: 3.2105556, Evaluation Loss: 182.58334
+
+Epoch #: 9040 -> Training Loss: 1.0289103, Evaluation Loss: 157.24493
+
+Epoch #: 9050 -> Training Loss: 1.75144, Evaluation Loss: 161.37645
+
+Epoch #: 9060 -> Training Loss: 1.3068707, Evaluation Loss: 160.19821
+
+Epoch #: 9070 -> Training Loss: 1.302942, Evaluation Loss: 166.74738
+
+Epoch #: 9080 -> Training Loss: 1.407947, Evaluation Loss: 138.31598
+
+Epoch #: 9090 -> Training Loss: 2.0916903, Evaluation Loss: 165.20253
+
+Epoch #: 9100 -> Training Loss: 1.367142, Evaluation Loss: 130.81465
+
+Epoch #: 9110 -> Training Loss: 1.337433, Evaluation Loss: 135.45406
+
+Epoch #: 9120 -> Training Loss: 3.1772773, Evaluation Loss: 114.71055
+
+Epoch #: 9130 -> Training Loss: 1.1746501, Evaluation Loss: 133.80528
+
+Epoch #: 9140 -> Training Loss: 1.2802008, Evaluation Loss: 162.05186
+
+Epoch #: 9150 -> Training Loss: 1.9695897, Evaluation Loss: 176.02112
+
+Epoch #: 9160 -> Training Loss: 1.7754873, Evaluation Loss: 168.3025
+
+Epoch #: 9170 -> Training Loss: 1.2019708, Evaluation Loss: 141.64497
+
+Epoch #: 9180 -> Training Loss: 0.8966031, Evaluation Loss: 147.55823
+
+Epoch #: 9190 -> Training Loss: 0.73629916, Evaluation Loss: 140.63393
+
+Epoch #: 9200 -> Training Loss: 0.7852034, Evaluation Loss: 139.58354
+
+Epoch #: 9210 -> Training Loss: 1.7794966, Evaluation Loss: 129.07417
+
+Epoch #: 9220 -> Training Loss: 1.2819744, Evaluation Loss: 162.43352
+
+Epoch #: 9230 -> Training Loss: 0.8511047, Evaluation Loss: 143.95854
+
+Epoch #: 9240 -> Training Loss: 2.3100817, Evaluation Loss: 123.91708
+
+Epoch #: 9250 -> Training Loss: 1.4546047, Evaluation Loss: 128.27219
+
+Epoch #: 9260 -> Training Loss: 1.3298342, Evaluation Loss: 158.12196
+
+Epoch #: 9270 -> Training Loss: 2.2233415, Evaluation Loss: 176.61018
+
+Epoch #: 9280 -> Training Loss: 2.5426764, Evaluation Loss: 176.91693
+
+Epoch #: 9290 -> Training Loss: 1.3011044, Evaluation Loss: 158.25166
+
+Epoch #: 9300 -> Training Loss: 1.8672082, Evaluation Loss: 163.58685
+
+Epoch #: 9310 -> Training Loss: 1.0029424, Evaluation Loss: 134.3239
+
+Epoch #: 9320 -> Training Loss: 2.7014265, Evaluation Loss: 120.81282
+
+Epoch #: 9330 -> Training Loss: 1.3201478, Evaluation Loss: 133.67383
+
+Epoch #: 9340 -> Training Loss: 1.1473291, Evaluation Loss: 132.81885
+
+Epoch #: 9350 -> Training Loss: 1.431384, Evaluation Loss: 159.94449
+
+Epoch #: 9360 -> Training Loss: 1.5829058, Evaluation Loss: 162.5462
+
+Epoch #: 9370 -> Training Loss: 1.950917, Evaluation Loss: 165.61307
+
+Epoch #: 9380 -> Training Loss: 1.2640991, Evaluation Loss: 165.37767
+
+Epoch #: 9390 -> Training Loss: 1.8397615, Evaluation Loss: 130.811
+
+Epoch #: 9400 -> Training Loss: 0.5949338, Evaluation Loss: 143.79942
+
+Epoch #: 9410 -> Training Loss: 4.68771, Evaluation Loss: 187.7861
+
+Epoch #: 9420 -> Training Loss: 0.86806476, Evaluation Loss: 145.73996
+
+Epoch #: 9430 -> Training Loss: 2.3118913, Evaluation Loss: 169.46115
+
+Epoch #: 9440 -> Training Loss: 2.4640765, Evaluation Loss: 176.0116
+
+Epoch #: 9450 -> Training Loss: 3.3356674, Evaluation Loss: 185.8558
+
+Epoch #: 9460 -> Training Loss: 5.0331197, Evaluation Loss: 197.1572
+
+Epoch #: 9470 -> Training Loss: 3.9634945, Evaluation Loss: 189.69177
+
+Epoch #: 9480 -> Training Loss: 2.0536704, Evaluation Loss: 168.84738
+
+Epoch #: 9490 -> Training Loss: 2.6985407, Evaluation Loss: 175.74501
+
+Epoch #: 9500 -> Training Loss: 1.1669251, Evaluation Loss: 155.65675
+
+Epoch #: 9510 -> Training Loss: 3.0715117, Evaluation Loss: 174.40878
+
+Epoch #: 9520 -> Training Loss: 2.3437476, Evaluation Loss: 170.84288
+
+Epoch #: 9530 -> Training Loss: 8.329399, Evaluation Loss: 214.24005
+
+Epoch #: 9540 -> Training Loss: 2.2388234, Evaluation Loss: 170.02632
+
+Epoch #: 9550 -> Training Loss: 0.93764174, Evaluation Loss: 133.87743
+
+Epoch #: 9560 -> Training Loss: 3.041224, Evaluation Loss: 169.62546
+
+Epoch #: 9570 -> Training Loss: 0.8821779, Evaluation Loss: 155.28284
+
+Epoch #: 9580 -> Training Loss: 1.5880556, Evaluation Loss: 161.24373
+
+Epoch #: 9590 -> Training Loss: 0.8221783, Evaluation Loss: 138.87909
+
+Epoch #: 9600 -> Training Loss: 1.3217946, Evaluation Loss: 131.8983
+
+Epoch #: 9610 -> Training Loss: 1.6782935, Evaluation Loss: 171.13799
+
+Epoch #: 9620 -> Training Loss: 0.9189732, Evaluation Loss: 146.53606
+
+Epoch #: 9630 -> Training Loss: 0.71266013, Evaluation Loss: 156.7994
+
+Epoch #: 9640 -> Training Loss: 1.2201316, Evaluation Loss: 140.16118
+
+Epoch #: 9650 -> Training Loss: 2.4196136, Evaluation Loss: 120.44022
+
+Epoch #: 9660 -> Training Loss: 1.4397696, Evaluation Loss: 126.79244
+
+Epoch #: 9670 -> Training Loss: 0.6695353, Evaluation Loss: 148.27963
+
+Epoch #: 9680 -> Training Loss: 1.8097045, Evaluation Loss: 164.46542
+
+Epoch #: 9690 -> Training Loss: 1.408794, Evaluation Loss: 159.66293
+
+Epoch #: 9700 -> Training Loss: 1.0331669, Evaluation Loss: 163.05452
+
+Epoch #: 9710 -> Training Loss: 0.8294692, Evaluation Loss: 141.17557
+
+Epoch #: 9720 -> Training Loss: 1.4694333, Evaluation Loss: 127.728874
+
+Epoch #: 9730 -> Training Loss: 1.251517, Evaluation Loss: 135.34854
+
+Epoch #: 9740 -> Training Loss: 3.5737195, Evaluation Loss: 186.4425
+
+Epoch #: 9750 -> Training Loss: 9.36041, Evaluation Loss: 95.35395
+
+Epoch #: 9760 -> Training Loss: 1.402822, Evaluation Loss: 131.83992
+
+Epoch #: 9770 -> Training Loss: 1.6891477, Evaluation Loss: 126.36295
+
+Epoch #: 9780 -> Training Loss: 1.3110267, Evaluation Loss: 134.07083
+
+Epoch #: 9790 -> Training Loss: 0.7645673, Evaluation Loss: 154.22107
+
+Epoch #: 9800 -> Training Loss: 2.3665142, Evaluation Loss: 121.308304
+
+Epoch #: 9810 -> Training Loss: 1.8314444, Evaluation Loss: 172.23698
+
+Epoch #: 9820 -> Training Loss: 1.4427176, Evaluation Loss: 166.32623
+
+Epoch #: 9830 -> Training Loss: 1.2970026, Evaluation Loss: 132.34691
+
+Epoch #: 9840 -> Training Loss: 6.0950184, Evaluation Loss: 208.07947
+
+Epoch #: 9850 -> Training Loss: 93.35367, Evaluation Loss: 455.84906
+
+Epoch #: 9860 -> Training Loss: 86.46375, Evaluation Loss: 446.60184
+
+Epoch #: 9870 -> Training Loss: 78.93859, Evaluation Loss: 422.84628
+
+Epoch #: 9880 -> Training Loss: 101.55176, Evaluation Loss: 479.12372
+
+Epoch #: 9890 -> Training Loss: 71.45707, Evaluation Loss: 405.60117
+
+Epoch #: 9900 -> Training Loss: 78.50342, Evaluation Loss: 421.47003
+
+Epoch #: 9910 -> Training Loss: 97.23752, Evaluation Loss: 465.66644
+
+Epoch #: 9920 -> Training Loss: 82.91617, Evaluation Loss: 431.40802
+
+Epoch #: 9930 -> Training Loss: 89.15676, Evaluation Loss: 447.74017
+
+Epoch #: 9940 -> Training Loss: 99.98253, Evaluation Loss: 468.18198
+
+Epoch #: 9950 -> Training Loss: 77.793274, Evaluation Loss: 426.4352
+
+Epoch #: 9960 -> Training Loss: 86.7878, Evaluation Loss: 438.565
+
+Epoch #: 9970 -> Training Loss: 87.86689, Evaluation Loss: 439.00934
+
+Epoch #: 9980 -> Training Loss: 79.6003, Evaluation Loss: 429.09763
+
+Epoch #: 9990 -> Training Loss: 101.073395, Evaluation Loss: 474.23346
+
+Epoch #: 10000 -> Training Loss: 88.87043, Evaluation Loss: 440.7312
+
+Min training Loss: 0.65039766, Min evaluation Loss: 138.94391
